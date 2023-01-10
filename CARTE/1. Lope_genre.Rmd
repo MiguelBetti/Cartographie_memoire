@@ -5,6 +5,7 @@ date: "01/09/2022"
 output: html_document
 ---
 
+#J'installe les librairies et les packages nécessaires: knitr, leaflet, etc.
 
 ```{r, setup, fig.show=hold, fig.margin=TRUE}
 if(!require("knitr")){
@@ -62,6 +63,7 @@ if(!require("leaftime")){
 
 ```
 
+#Je charge les données de travail: les noms de lieux issus des pièces de Lope de Vega, divisés par pièces et par genre ("comedia" et "drama")
 ```{r}
 setwd("/Users/miguel/Desktop/Cartographie/CARTE")
 ```
@@ -134,6 +136,7 @@ lope_cardona$lat <- as.numeric(lope_cardona$lat)
 ```
 
 ```{r}
+#Pour le genre, je attribue un marker et une couleur
 data_comedia <-read.csv("DATA/GENRE/Lope/comedia.csv")
 icon_comedia <- makeAwesomeIcon(icon = "c", 
                                 markerColor = "red",
@@ -148,13 +151,14 @@ icon_drama <- makeAwesomeIcon(icon = "d",
                                 iconColor = "black")
 ```
 
-
+#Je prépare la carte
 ```{r}
-
+#J'ajoute un fond de carte et je définis son point central
 map <- leaflet(df) %>%
   addProviderTiles(providers$Esri.NatGeoWorldMap)%>% 
   setView(lng = -40, lat = 40, zoom =2.4)   %>%
   
+  #J'ajoute les points issus des pièces, importées précédemment, et je leur attribue la couleur, la   taille et l'opacité
   addCircleMarkers(lng = sortija_olvido$lng, 
                    lat = sortija_olvido$lat,
                    group = "La sortija del olvido",
@@ -265,7 +269,7 @@ map <- leaflet(df) %>%
                    label = ~paste(lope_cardona$lugar,
                                   lope_cardona$menciones)) %>%
 
-  
+  #J'ajoute des markers pour les genres: comédie (comedia) et tragédie (drama)
   addAwesomeMarkers(data = data_drama, 
                       data_drama$lng, 
                       data_drama$lat,
@@ -293,9 +297,10 @@ map <- leaflet(df) %>%
                                      sep = " "
                                      )) %>%
   
-  
+  #J'ajoute une fonction reset, qui permet de reactiver setView()
   addResetMapButton() %>%
-   
+  
+  #J'ajoute un panneau de contrôle pour pouvoir selectionner les différentes options, des légendes,   et je définis leur position
   addLayersControl(baseGroups = c("Comedias de Lope"),
                    
                    overlayGroups = c("La sortija del olvido", "Ramilletes de Madrid", "La ocasión perdida", "El poder vencido", "Mirad a quién alabáis", "La villana de Getafe", "La hermosa Alfreda", "Laura perseguida", "Lo fingido verdadero", "Las mudanzas de fortuna", "Don Lope de Cardona", "Drama", "Comedia"),
@@ -324,6 +329,7 @@ addLegend(position = "bottomleft",
 map
 ```
 
+#Je sauvegarde ma carte en format html
 ```{r}
 saveWidget(map, file="Lope_genre.html")
 browseURL("Lope_genre.html")

@@ -5,7 +5,7 @@ date: "15/09/2022"
 output: html_document
 ---
 
-
+#J'installe les librairies et les packages nécessaires: knitr, leaflet, etc.
 ```{r, setup, fig.show=hold, fig.margin=TRUE}
 if(!require("knitr")){
   install.packages("knitr")
@@ -62,6 +62,8 @@ if(!require("leaftime")){
 
 ```
 
+
+#Je charge les données de travail: le lieu ou se déroulent les pièces de Lope de Vega et les adaptations de Jean de Rotrou
 ```{r}
 setwd("/Users/miguel/Desktop/Cartographie/CARTE")
 ```
@@ -163,13 +165,14 @@ bague$lng <- as.numeric(bague$lng)
 bague$lat <- as.numeric(bague$lat)
 ```
 
-
+#Je prépare la carte
 ```{r}
-
+#J'ajoute un fond de carte et je définis son point central
 map <- leaflet(df) %>%
   addProviderTiles(providers$Esri.NatGeoWorldMap)%>% 
   setView(lng = -13.439978, lat = 37.804134, zoom =2.4)   %>%
   
+  #J'ajoute les points issus des pièces, importées précédemment, et je leur attribue la couleur       (la même pour l'hypotexte et l'hypertexte), la taille et l'opacité
   addCircleMarkers(lng = sortija$lng, 
                    lat = sortija$lat,
                    group = "La sortija del olvido",
@@ -369,9 +372,10 @@ map <- leaflet(df) %>%
              
               title="Lope en el mapa:") %>%
   
-  
+  #J'ajoute une fonction reset, qui permet de reactiver setView()
   addResetMapButton() %>%
    
+  #J'ajoute un panneau de contrôle pour pouvoir selectionner les différentes options, des légendes,   et je définis leur position sur la carte 
   addLayersControl(baseGroups = c("Obras"),
                    
                    overlayGroups = c("La Bague de l'oubli", "La sortija del olvido", 
@@ -417,6 +421,7 @@ map <- leaflet(df) %>%
 map
 ```
 
+#Je sauvegarde ma carte en format html
 ```{r}
 saveWidget(map, file="Adaptations.html")
 browseURL("Adaptations.html")
