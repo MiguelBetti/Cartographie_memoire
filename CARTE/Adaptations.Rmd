@@ -1,0 +1,423 @@
+---
+title: "Adaptations"
+author: "Miguel Betti"
+date: "15/09/2022"
+output: html_document
+---
+
+
+```{r, setup, fig.show=hold, fig.margin=TRUE}
+if(!require("knitr")){
+  install.packages("knitr")
+  library(knitr)
+}
+knitr::opts_chunk$set(echo = TRUE, fig.width=20)
+```
+
+```{r, warning=FALSE, results='hide'}
+if(!require("leaflet")){
+  install.packages("leaflet")
+  library(leaflet)
+}
+if(!require("sp")){
+  install.packages("sp")
+  library(sp)
+}
+if(!require("rgdal")){
+  install.packages("rgdal")
+  library(rgdal)
+}
+if(!require("RColorBrewer")){
+  install.packages("RColorBrewer")
+  library(RColorBrewer)
+}
+if(!require("htmlwidgets")){
+  install.packages("htmlwidgets")
+  library(htmlwidgets)
+}
+if(!require("htmltools")){
+  install.packages("htmltools")
+  library(htmltools)
+}
+if(!require("leaflet.extras")){
+  install.packages("leaflet.extras")
+  library(leaflet.extras)
+}
+if(!require("geojsonio")){
+  install.packages("geojsonio")
+  library(geojsonio)
+}
+if(!require("geojsonlint")){
+  install.packages("geojsonlint")
+  library(geojsonlint)
+}
+if(!require("rjson")){
+  install.packages("rjson")
+  library(rjson)
+}
+if(!require("leaftime")){
+  install.packages("leaftime")
+  library(leaftime)
+}
+
+```
+
+```{r}
+setwd("/Users/miguel/Desktop/Cartographie/CARTE")
+```
+
+
+```{r, results='hide'}
+sortija  <- read.csv("DATA/ADAPTATIONS/LOPE/sortija.csv")
+sortija$lng <- as.numeric(sortija$lng)
+sortija$lat <- as.numeric(sortija$lat)
+```
+
+```{r, results='hide'}
+ramilletes  <- read.csv("DATA/ADAPTATIONS/LOPE/ramilletes.csv")
+ramilletes$lng <- as.numeric(ramilletes$lng)
+ramilletes$lat <- as.numeric(ramilletes$lat)
+```
+
+```{r, results='hide'}
+ocasion  <- read.csv("DATA/ADAPTATIONS/LOPE/ocasion.csv")
+ocasion$lng <- as.numeric(ocasion$lng)
+ocasion$lat <- as.numeric(ocasion$lat)
+```
+
+```{r, results='hide'}
+mirad  <- read.csv("DATA/ADAPTATIONS/LOPE/mirad.csv")
+mirad$lng <- as.numeric(mirad$lng)
+mirad$lat <- as.numeric(mirad$lat)
+```
+
+```{r, results='hide'}
+poder  <- read.csv("DATA/ADAPTATIONS/LOPE/poder.csv")
+poder$lng <- as.numeric(poder$lng)
+poder$lat <- as.numeric(poder$lat)
+```
+
+```{r, results='hide'}
+villana  <- read.csv("DATA/ADAPTATIONS/LOPE/villana.csv")
+villana$lng <- as.numeric(villana$lng)
+villana$lat <- as.numeric(villana$lat)
+```
+
+```{r, results='hide'}
+hermosa  <- read.csv("DATA/ADAPTATIONS/LOPE/hermosa.csv")
+hermosa$lng <- as.numeric(hermosa$lng)
+hermosa$lat <- as.numeric(hermosa$lat)
+```
+
+```{r, results='hide'}
+laura  <- read.csv("DATA/ADAPTATIONS/LOPE/laura.csv")
+laura$lng <- as.numeric(laura$lng)
+laura$lat <- as.numeric(laura$lat)
+```
+
+```{r, results='hide'}
+fingido  <- read.csv("DATA/ADAPTATIONS/LOPE/fingido.csv")
+fingido$lng <- as.numeric(fingido$lng)
+fingido$lat <- as.numeric(fingido$lat)
+```
+
+```{r, results='hide'}
+laure  <- read.csv("DATA/ADAPTATIONS/ROTROU/laure.csv")
+laure$lng <- as.numeric(laure$lng)
+laure$lat <- as.numeric(laure$lat)
+```
+
+```{r, results='hide'}
+belle  <- read.csv("DATA/ADAPTATIONS/ROTROU/belle.csv")
+belle$lng <- as.numeric(belle$lng)
+belle$lat <- as.numeric(belle$lat)
+```
+
+```{r, results='hide'}
+diane  <- read.csv("DATA/ADAPTATIONS/ROTROU/cardone.csv")
+diane$lng <- as.numeric(diane$lng)
+diane$lat <- as.numeric(diane$lat)
+```
+
+```{r, results='hide'}
+hereuse  <- read.csv("DATA/ADAPTATIONS/ROTROU/hereuse.csv")
+hereuse$lng <- as.numeric(hereuse$lng)
+hereuse$lat <- as.numeric(hereuse$lat)
+```
+
+```{r, results='hide'}
+occasions  <- read.csv("DATA/ADAPTATIONS/ROTROU/occasions.csv")
+occasions$lng <- as.numeric(occasions$lng)
+occasions$lat <- as.numeric(occasions$lat)
+```
+
+```{r, results='hide'}
+céliane  <- read.csv("DATA/ADAPTATIONS/ROTROU/céliane.csv")
+céliane$lng <- as.numeric(céliane$lng)
+céliane$lat <- as.numeric(céliane$lat)
+```
+
+```{r, results='hide'}
+bague  <- read.csv("DATA/ADAPTATIONS/ROTROU/bague.csv")
+bague$lng <- as.numeric(bague$lng)
+bague$lat <- as.numeric(bague$lat)
+```
+
+
+```{r}
+
+map <- leaflet(df) %>%
+  addProviderTiles(providers$Esri.NatGeoWorldMap)%>% 
+  setView(lng = -13.439978, lat = 37.804134, zoom =2.4)   %>%
+  
+  addCircleMarkers(lng = sortija$lng, 
+                   lat = sortija$lat,
+                   group = "La sortija del olvido",
+                   color = "red",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(sortija$obra, ":", 
+                                  sortija$lugar)) %>%
+  
+    addCircleMarkers(lng = bague$lng, 
+                   lat = bague$lat,
+                   group = "La Bague de l'oubli",
+                   color = "red",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(bague$obra, ":", 
+                                  bague$lugar)) %>%
+  
+   addCircleMarkers(lng = ramilletes$lng, 
+                   lat = ramilletes$lat,
+                   group = "Ramilletes de Madrid",
+                   color = "orange",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(ramilletes$obra, ":", 
+                                  ramilletes$lugar)) %>%
+  
+    addCircleMarkers(lng = céliane$lng, 
+                   lat = céliane$lat,
+                   group = "La Céliane",
+                   color = "orange",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(céliane$obra, ":", 
+                                  céliane$lugar)) %>%
+  
+     addCircleMarkers(lng = ocasion$lng, 
+                   lat = ocasion$lat,
+                   group = "La ocasión perdida",
+                   color = "yellow",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(ocasion$obra, ":", 
+                                  ocasion$lugar)) %>%
+  
+    addCircleMarkers(lng = occasions$lng, 
+                   lat = occasions$lat,
+                   group = "Les Occasions perdues",
+                   color = "yellow",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(occasions$obra, ":", 
+                                  occasions$lugar)) %>%
+  
+      addCircleMarkers(lng = mirad$lng, 
+                   lat = mirad$lat,
+                   group = "Mirad a quién alabáis",
+                   color = "green",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(mirad$obra, ":", 
+                                  mirad$lugar)) %>%
+  
+    addCircleMarkers(lng = poder$lng, 
+                   lat = poder$lat,
+                   group = "El poder vencido...",
+                   color = "green",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(poder$obra, ":", 
+                                  poder$lugar)) %>%
+  
+   addCircleMarkers(lng = hereuse$lng, 
+                   lat = hereuse$lat,
+                   group = "L'Heureuse Constance",
+                   color = "green",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(hereuse$obra, ":", 
+                                 hereuse$lugar)) %>%
+   
+    addCircleMarkers(lng = villana$lng, 
+                   lat = villana$lat,
+                   group = "La villana de Getafe",
+                   color = "purple",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(villana$obra, ":", 
+                                  villana$lugar)) %>%
+  
+   addCircleMarkers(lng = diane$lng, 
+                   lat = diane$lat,
+                   group = "La Diane",
+                   color = "purple",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(diane$obra, ":", 
+                                 diane$lugar)) %>%
+  
+  
+  addCircleMarkers(lng = hermosa$lng, 
+                   lat = hermosa$lat,
+                   group = "La hermosa Alfreda",
+                   color = "blue",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(hermosa$obra, ":", 
+                                  hermosa$lugar)) %>%
+  
+   addCircleMarkers(lng = belle$lng, 
+                   lat = belle$lat,
+                   group = "La Belle Alphrède",
+                   color = "blue",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(belle$obra, ":", 
+                                 belle$lugar)) %>%
+  
+    addCircleMarkers(lng = laura$lng, 
+                   lat = laura$lat,
+                   group = "Laura perseguida",
+                   color = "pink",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(laura$obra, ":", 
+                                  laura$lugar)) %>%
+  
+    addCircleMarkers(lng = laure$lng, 
+                   lat = laure$lat,
+                   group = "Laure persecutée",
+                   color = "pink",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(laure$obra, ":", 
+                                  laure$lugar)) %>%
+  
+     addCircleMarkers(lng = fingido$lng, 
+                   lat = fingido$lat,
+                   group = "Lo fingido verdadero",
+                   color = "brown",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(fingido$obra, ":", 
+                                  fingido$lugar)) %>%
+  
+  addCircleMarkers(lng = véritable$lng, 
+                   lat = véritable$lat,
+                   group = "Le véritable Saint-Genest",
+                   color = "brown",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(véritable$obra, ":", 
+                                  véritable$lugar)) %>%
+  
+  
+    addCircleMarkers(lng = mudanzas$lng, 
+                   lat = mudanzas$lat,
+                   group = "Las mudanzas de fortuna...",
+                   color = "black",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(mudanzas$obra, ":", 
+                                  mudanzas$lugar)) %>%
+  
+   addCircleMarkers(lng = cosroès$lng, 
+                   lat = cosroès$lat,
+                   group = "Cosroès",
+                   color = "black",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(cosroès$obra, ":", 
+                                 cosroès$lugar)) %>%
+  
+  addCircleMarkers(lng = don$lng, 
+                   lat = don$lat,
+                   group = "Don Lope de Cardona",
+                   color = "white",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(don$obra, ":", 
+                                  don$lugar)) %>%
+  
+   addCircleMarkers(lng = cardone$lng, 
+                   lat = cardone$lat,
+                   group = "Don Lope de Cardone",
+                   color = "white",
+                   weight=1,
+                   fillOpacity = 0.5,
+                   label = ~paste(cardone$obra, ":", 
+                                 cardone$lugar)) %>%
+  
+      addLegend("bottomleft", 
+              
+              colors = c("trasparent"),
+
+              labels=c("Mapa y extracción de datos: Miguel Betti - miguel.betti@unige.ch"),
+             
+              title="Lope en el mapa:") %>%
+  
+  
+  addResetMapButton() %>%
+   
+  addLayersControl(baseGroups = c("Obras"),
+                   
+                   overlayGroups = c("La Bague de l'oubli", "La sortija del olvido", 
+                         "La Céliane", "Ramilletes de Madrid",
+                         "Les Occasions perdues", "La ocasión perdida",
+                         "L'Heureuse Constance", "Mirad a quién alabáis", "El poder vencido...",
+                         "La Diane", "La villana de Getafe",
+                         "La Belle Alphrède", "La hermosa Alfreda",
+                         "Laure persecutée", "Laura perseguida",
+                         "Le véritable Saint-Genest", "Lo fingido verdadero",
+                         "Cosroès","Las mudanzas de fortuna...",
+                         "Don Lope de Cardone", "Don Lope de Cardona"),
+                   options = layersControlOptions(collapsed = TRUE))%>%
+
+     addLegend(position = "bottomleft", 
+              labels = c("La Bague de l'oubli : La sortija del olvido", 
+                         "La Céliane : Ramilletes de Madrid",
+                         "Les Occasions perdues : La ocasión perdida",
+                         "L'Heureuse Constance : Mirad a quién alabáis",
+                         "L'Heureuse Constance :  El poder vencido...",
+                         "La Diane : La villana de Getafe",
+                         "La Belle Alphrède : La hermosa Alfreda",
+                         "Laure persecutée : Laura perseguida",
+                         "Le véritable Saint-Genest : Lo fingido verdadero",
+                         "Cosroès : Las mudanzas de fortuna...",
+                         "Don Lope de Cardone : Don Lope de Cardona"), 
+              
+                
+              colors = c("red",
+                         "orange",
+                         "yellow",
+                         "green",
+                         "green",
+                         "purple",
+                         "blue",
+                         "pink",
+                         "brown",
+                         "black",
+                         "white"),
+              
+              title = "Adaptaciones:")
+  
+map
+```
+
+```{r}
+saveWidget(map, file="Adaptations.html")
+browseURL("Adaptations.html")
+```
