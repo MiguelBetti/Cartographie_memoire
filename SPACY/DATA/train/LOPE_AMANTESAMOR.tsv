@@ -5568,7 +5568,6 @@ de O
 quedar O
 muy O
 feo O
-I 
 Salen O
 Clarinda O
 Tristán O
@@ -8490,7 +8489,7 @@ posible O
 Desde O
 Toledo B-LOC
 a O
-Sevilla O
+Sevilla B-LOC
 tarda O
 un O
 hombre O
@@ -8498,7 +8497,7 @@ una O
 semana O
 y O
 de O
-Sevilla O
+Sevilla B-LOC
 a O
 la B-LOC
 Habana I-LOC
@@ -9899,7 +9898,7 @@ estafeta O
 pasada O
 envió O
 a O
-Sevilla O
+Sevilla B-LOC
 dos O
 mil O
 pesos O
@@ -11447,7 +11446,6 @@ nombres O
 más O
 a O
 Octavia O
-II 
 Salen O
 Felisardo O
 Rosileo O
@@ -11623,9 +11621,9 @@ en O
 España B-LOC
 Dónde O
 En O
-Sevilla O
+Sevilla B-LOC
 En O
-Sevilla O
+Sevilla B-LOC
 Sí O
 que O
 a O
