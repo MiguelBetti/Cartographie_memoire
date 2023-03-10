@@ -44,7 +44,8 @@ llevando O
 lo O
 mejor O
 de O
-Nápoles B-LOCGran O
+Nápoles B-LOC
+Gran O
 señor O
 Deciros O
 la O
@@ -274,7 +275,8 @@ por O
 la O
 duquesa O
 de O
-Milán B-LOCfue O
+Milán B-LOC
+fue O
 por O
 la O
 empresa O
@@ -310,7 +312,8 @@ me O
 han O
 dado O
 a O
-Milán B-LOCy O
+Milán B-LOC
+y O
 aquí O
 mi O
 amor O
@@ -464,7 +467,8 @@ las O
 hable O
 Dama O
 en O
-Nápoles B-LOCyo O
+Nápoles B-LOC
+yo O
 creo O
 que O
 el O
@@ -518,8 +522,10 @@ Pero O
 son O
 nuevas O
 de O
-España B-LOCDe O
-Milán B-LOCme O
+España B-LOC
+De O
+Milán B-LOC
+me O
 las O
 ha O
 dado O
@@ -639,12 +645,14 @@ sirena O
 despeñada O
 cuando O
 en O
-Fenicia B-LOCla O
+Fenicia B-LOC
+la O
 lloró O
 robada O
 Llegué O
 a O
-Milán B-LOCadonde O
+Milán B-LOC
+adonde O
 ya O
 tenía O
 la O
@@ -939,12 +947,14 @@ fiestas O
 no O
 las O
 vio O
-Milán B-LOCmejores O
+Milán B-LOC
+mejores O
 la O
 noche O
 imaginó O
 que O
-Roma B-LOCardía O
+Roma B-LOC
+ardía O
 y O
 con O
 doseles O
@@ -968,7 +978,8 @@ y O
 los O
 torneos O
 mostró O
-Milán B-LOCen O
+Milán B-LOC
+en O
 infinitas O
 sumas O
 colores O
@@ -1060,7 +1071,8 @@ Elena O
 fuera O
 vil O
 ni O
-Troya B-LOCardiera O
+Troya B-LOC
+ardiera O
 Partimos O
 finalmente O
 acompañados O
@@ -1150,7 +1162,8 @@ de O
 colores O
 se O
 previene O
-Nápoles B-LOCbella O
+Nápoles B-LOC
+bella O
 y O
 como O
 a O
@@ -1207,10 +1220,12 @@ joya O
 que O
 honrara O
 a O
-Grecia B-LOCy O
+Grecia B-LOC
+y O
 abrasara O
 a O
-Troya B-LOCDescansa O
+Troya B-LOC
+Descansa O
 César O
 y O
 advierte O
@@ -1471,7 +1486,8 @@ arrepentido O
 El O
 ducado O
 de O
-Milán B-LOCha O
+Milán B-LOC
+ha O
 sido O
 tan O
 codiciado O
@@ -1623,7 +1639,8 @@ ella O
 con O
 vos O
 a O
-Milán B-LOCCuando O
+Milán B-LOC
+Cuando O
 los O
 reyes O
 no O
@@ -1661,7 +1678,8 @@ desorden O
 Yo O
 fui O
 a O
-Nápoles B-LOCcon O
+Nápoles B-LOC
+con O
 orden O
 a O
 su O
@@ -1843,7 +1861,8 @@ manda O
 que O
 vuelva O
 a O
-Milán B-LOCDice O
+Milán B-LOC
+Dice O
 bien O
 Celia O
 señor O
@@ -1963,7 +1982,8 @@ aquesta O
 que O
 amar O
 en O
-Nápoles B-LOCyo O
+Nápoles B-LOC
+yo O
 otra O
 encubierta O
 belleza O
@@ -2042,7 +2062,8 @@ puesto O
 que O
 en O
 la O
-Libia B-LOCengendra O
+Libia B-LOC
+engendra O
 más O
 que O
 arena O
@@ -2166,14 +2187,17 @@ Ceilán O
 por O
 jazmines O
 a O
-Valencia B-LOCpor O
+Valencia B-LOC
+por O
 diamantes O
 a O
 la O
-China B-LOCpor O
+China B-LOC
+por O
 alabastros O
 a O
-Grecia B-LOCno O
+Grecia B-LOC
+no O
 deja O
 cándido O
 cisne O
@@ -2366,7 +2390,8 @@ Almirante O
 ha O
 venido O
 de O
-Milán B-LOCcon O
+Milán B-LOC
+con O
 la O
 Duquesa O
 Es O
@@ -3009,7 +3034,8 @@ agravio O
 justamente O
 Llévala O
 a O
-Milán B-LOCy O
+Milán B-LOC
+y O
 luego O
 vuelve O
 a O
@@ -3138,7 +3164,8 @@ vida O
 Mátenme O
 Fabio O
 en O
-Milán B-LOCque O
+Milán B-LOC
+que O
 así O
 sus O
 celos O
@@ -3582,7 +3609,8 @@ esposa O
 Don O
 Alonso O
 de O
-Aragón B-LOCsin O
+Aragón B-LOC
+sin O
 ser O
 rey O
 fuera O
@@ -3838,7 +3866,8 @@ Alteza O
 Hay O
 nuevas O
 de O
-España B-LOCHablad O
+España B-LOC
+Hablad O
 De O
 más O
 cerca O
@@ -3916,7 +3945,8 @@ dar O
 más O
 causa O
 a O
-Milán B-LOCVive O
+Milán B-LOC
+Vive O
 Dios O
 que O
 si O
@@ -3930,7 +3960,8 @@ fin O
 yo O
 tengo O
 en O
-Italia B-LOCfuerzas O
+Italia B-LOC
+fuerzas O
 sino O
 menos O
 de O
@@ -4030,11 +4061,13 @@ discreta O
 como O
 sibila O
 de O
-Italia B-LOCy O
+Italia B-LOC
+y O
 décima O
 musa O
 en O
-Grecia B-LOCcomo O
+Grecia B-LOC
+como O
 señora O
 que O
 en O
@@ -4069,7 +4102,8 @@ y O
 contento O
 llegué O
 a O
-Nápoles B-LOCla O
+Nápoles B-LOC
+la O
 bella O
 y O
 besé O
@@ -4189,7 +4223,8 @@ que O
 te O
 vuelva O
 a O
-Milán B-LOCVive O
+Milán B-LOC
+Vive O
 el O
 cielo O
 que O
@@ -4271,14 +4306,16 @@ tú O
 me O
 merezcas O
 De O
-Milán B-LOChas O
+Milán B-LOC
+has O
 de O
 ser O
 duque O
 si O
 a O
 toda O
-Italia B-LOCle O
+Italia B-LOC
+le O
 pesa O
 que O
 si O
@@ -4383,7 +4420,8 @@ marido O
 y O
 que O
 a O
-Milán B-LOCdesde O
+Milán B-LOC
+desde O
 aquí O
 conmigo O
 vuelvas O
@@ -4471,7 +4509,8 @@ resistencia O
 de O
 aquí O
 a O
-Milán B-LOCY O
+Milán B-LOC
+Y O
 casarme O
 no O
 será O
@@ -4485,7 +4524,8 @@ has O
 de O
 volver O
 a O
-Nápoles B-LOCy O
+Nápoles B-LOC
+y O
 a O
 la O
 vuelta O
@@ -4540,7 +4580,8 @@ como O
 ser O
 duque O
 de O
-Milán B-LOCQue O
+Milán B-LOC
+Que O
 adviertas O
 querría O
 por O
@@ -4760,7 +4801,8 @@ su O
 tierra O
 Farinacio O
 de O
-Castilla B-LOCy O
+Castilla B-LOC
+y O
 Jasón O
 de O
 su O
@@ -4871,7 +4913,8 @@ me O
 espera O
 Musas O
 de O
-Milán B-LOCload O
+Milán B-LOC
+load O
 a O
 los O
 señores O
@@ -4912,7 +4955,8 @@ sé O
 que O
 vas O
 a O
-Milán B-LOCcon O
+Milán B-LOC
+con O
 ella O
 donde O
 cuando O
@@ -4951,7 +4995,8 @@ eras O
 mi O
 esposo O
 en O
-Milán B-LOClos O
+Milán B-LOC
+los O
 que O
 alterados O
 están O
@@ -4965,7 +5010,8 @@ consejo O
 sabio O
 ir O
 a O
-Nápoles B-LOCagora O
+Nápoles B-LOC
+agora O
 y O
 referirle O
 señora O
@@ -5004,7 +5050,8 @@ y O
 los O
 potentados O
 de O
-Italia B-LOCdesengañados O
+Italia B-LOC
+desengañados O
 de O
 que O
 eres O
@@ -5054,7 +5101,8 @@ tu O
 esclavo O
 seré O
 toda O
-Italia B-LOCsatisfecha O
+Italia B-LOC
+satisfecha O
 de O
 que O
 no O
@@ -5339,7 +5387,8 @@ soldados O
 saldrán O
 juntos O
 de O
-Milán B-LOCy O
+Milán B-LOC
+y O
 un O
 general O
 seguirán O
@@ -5385,7 +5434,8 @@ Mi O
 valor O
 y O
 a O
-Milán B-LOCjuntos O
+Milán B-LOC
+juntos O
 dejas O
 no O
 te O
@@ -5550,7 +5600,8 @@ Yo O
 fuera O
 duque O
 en O
-Milán B-LOCcuando O
+Milán B-LOC
+cuando O
 a O
 mi O
 ventura O
@@ -5741,7 +5792,8 @@ Por O
 la O
 parte O
 de O
-Aragón B-LOCsomos O
+Aragón B-LOC
+somos O
 deudos O
 qué O
 pretende O
@@ -5761,7 +5813,8 @@ que O
 con O
 secreto O
 en O
-Francia B-LOCcasarse O
+Francia B-LOC
+casarse O
 trata O
 para O
 qué O
@@ -6186,7 +6239,8 @@ desnudos O
 indios O
 basiliscos O
 en O
-Arabia B-LOCcocodrilos O
+Arabia B-LOC
+cocodrilos O
 en O
 el O
 Nilo O
@@ -6427,7 +6481,8 @@ Cipïón O
 cuando O
 mozo O
 a O
-España B-LOCvino O
+España B-LOC
+vino O
 Armada O
 del O
 pie O
@@ -6676,7 +6731,8 @@ Cipïón O
 cuando O
 mozo O
 a O
-España B-LOCvino O
+España B-LOC
+vino O
 sin O
 lo O
 demás O
@@ -6984,7 +7040,8 @@ que O
 se O
 vuelva O
 a O
-Milán B-LOCDe O
+Milán B-LOC
+De O
 mi O
 ventura O
 me O
@@ -7037,7 +7094,8 @@ convida O
 del O
 estado O
 de O
-Milán B-LOCMis O
+Milán B-LOC
+Mis O
 amigos O
 qué O
 dirán O
@@ -7268,7 +7326,8 @@ Si O
 me O
 alzare O
 con O
-Milán B-LOCno O
+Milán B-LOC
+no O
 es O
 ajeno O
 pues O
@@ -7639,7 +7698,8 @@ que O
 penetraron O
 de O
 la O
-Libia B-LOCfiera O
+Libia B-LOC
+fiera O
 las O
 ocultas O
 y O
@@ -7946,7 +8006,8 @@ en O
 amistad O
 Vuelve O
 a O
-Nápoles B-LOCla O
+Nápoles B-LOC
+la O
 gente O
 adonde O
 el O
@@ -7973,7 +8034,8 @@ voluntad O
 ] O
 si O
 fuera O
-Milán B-LOCaldea O
+Milán B-LOC
+aldea O
 y O
 yo O
 la O
@@ -8079,7 +8141,8 @@ pasado O
 del O
 pie O
 A O
-Milán B-LOCme O
+Milán B-LOC
+me O
 volveré O
 pues O
 tan O
@@ -8104,19 +8167,23 @@ cobarde O
 para O
 mí O
 En O
-Alemania B-LOCo O
+Alemania B-LOC
+o O
 en O
-Francia B-LOCpor O
+Francia B-LOC
+por O
 mí O
 cuando O
 no O
 le O
 obligue O
-Milán B-LOChabrá O
+Milán B-LOC
+habrá O
 quien O
 castigue O
 de O
-Nápoles B-LOCla O
+Nápoles B-LOC
+la O
 arrogancia O
 y O
 pues O
@@ -8130,7 +8197,8 @@ prueba O
 a O
 quitarme O
 a O
-Milán B-LOCpeleemos O
+Milán B-LOC
+peleemos O
 si O
 tú O
 quieres O
@@ -8386,7 +8454,8 @@ loco O
 deseo O
 perdió O
 a O
-Milán B-LOCDices O
+Milán B-LOC
+Dices O
 bien O
 pero O
 erraste O
@@ -8524,7 +8593,8 @@ ofrecieran O
 a O
 mí O
 un O
-Milán B-LOCy O
+Milán B-LOC
+y O
 aun O
 solo O
 un O
@@ -8647,7 +8717,8 @@ tan O
 presto O
 Marche O
 a O
-Nápoles B-LOCel O
+Nápoles B-LOC
+el O
 campo O
 Ah O
 señor O
@@ -9094,7 +9165,8 @@ y O
 deudo O
 Duque O
 de O
-Calabria B-LOCos O
+Calabria B-LOC
+os O
 hago O
 Señor O
 la O
@@ -9184,7 +9256,8 @@ Volvió O
 su O
 gente O
 a O
-Milán B-LOCla O
+Milán B-LOC
+la O
 Duquesa O
 y O
 el O
@@ -9406,7 +9479,8 @@ puedo O
 el O
 estado O
 de O
-Milán B-LOCQué O
+Milán B-LOC
+Qué O
 buen O
 vasallo O
 qué O
@@ -10160,7 +10234,8 @@ de O
 cinco O
 damas O
 de O
-Grecia B-LOCCésar O
+Grecia B-LOC
+César O
 y O
 tú O
 los O
@@ -10229,7 +10304,8 @@ de O
 que O
 venía O
 de O
-Roma B-LOCy O
+Roma B-LOC
+y O
 que O
 pasaría O
 a O
@@ -10292,7 +10368,8 @@ lo O
 cortés O
 el O
 de O
-Italia B-LOCen O
+Italia B-LOC
+en O
 lo O
 sutil O
 el O
@@ -10305,7 +10382,8 @@ indiano O
 el O
 de O
 la O
-China B-LOCen O
+China B-LOC
+en O
 lo O
 feo O
 en O
@@ -10405,7 +10483,8 @@ con O
 ella O
 Vine O
 a O
-Roma B-LOCy O
+Roma B-LOC
+y O
 desde O
 allí O
 quise O
@@ -10484,7 +10563,8 @@ y O
 ruego O
 Llegué O
 a O
-Nápoles B-LOCy O
+Nápoles B-LOC
+y O
 luego O
 que O
 a O
@@ -10528,7 +10608,8 @@ rey O
 don O
 Alonso O
 de O
-Aragón B-LOCel O
+Aragón B-LOC
+el O
 cual O
 está O
 solo O
@@ -10538,7 +10619,8 @@ que O
 se O
 case O
 en O
-Milán B-LOCenvidias O
+Milán B-LOC
+envidias O
 de O
 que O
 le O
@@ -10617,7 +10699,8 @@ lo O
 menos O
 oí O
 en O
-Roma B-LOCa O
+Roma B-LOC
+a O
 su O
 embajador O
 No O
@@ -10789,7 +10872,8 @@ Celia O
 Señor O
 De O
 qué O
-Grecia B-LOCtrujiste O
+Grecia B-LOC
+trujiste O
 a O
 Elena O
 si O
@@ -10926,7 +11010,8 @@ ventura O
 fuera O
 duque O
 de O
-Milán B-LOCsi O
+Milán B-LOC
+si O
 el O
 Rey O
 viera O
@@ -11173,14 +11258,16 @@ vestirse O
 el O
 crïado O
 a O
-Milán B-LOCquise O
+Milán B-LOC
+quise O
 vestirme O
 desecho O
 de O
 vuestras O
 manos O
 César O
-Milán B-LOCes O
+Milán B-LOC
+es O
 vestido O
 que O
 yo O
@@ -11433,10 +11520,12 @@ no O
 hicieran O
 casto O
 en O
-Cartago B-LOCa O
+Cartago B-LOC
+a O
 Cipïón O
 en O
-Grecia B-LOCal O
+Grecia B-LOC
+al O
 fuerte O
 Alejandro O
 Sus O
@@ -11589,7 +11678,8 @@ alabado O
 la O
 duquesa O
 de O
-Milán B-LOCestoy O
+Milán B-LOC
+estoy O
 en O
 tantos O
 trabajos O
@@ -11697,7 +11787,8 @@ Duquesa O
 No O
 César O
 que O
-Milán B-LOCes O
+Milán B-LOC
+es O
 fuerte O
 caso O
 que O
@@ -11751,7 +11842,8 @@ mano O
 que O
 tuvistes O
 en O
-Milán B-LOCque O
+Milán B-LOC
+que O
 aunque O
 deudo O
 sois O
@@ -11786,7 +11878,8 @@ hermosa O
 Duquesa O
 perdí O
 a O
-Milán B-LOCYa O
+Milán B-LOC
+Ya O
 es O
 en O
 vano O
@@ -12090,7 +12183,8 @@ de O
 la O
 Venus O
 de O
-Milán B-LOCaunque O
+Milán B-LOC
+aunque O
 ser O
 Palas O
 queréis O
@@ -12132,9 +12226,11 @@ soy O
 la O
 reina O
 de O
-Hungría B-LOCVine O
+Hungría B-LOC
+Vine O
 a O
-Roma B-LOCpor O
+Roma B-LOC
+por O
 mi O
 hermano O
 preso O
@@ -12261,7 +12357,8 @@ que O
 es O
 reina O
 de O
-Hungría B-LOCPresto O
+Hungría B-LOC
+Presto O
 se O
 puede O
 saber O
@@ -12580,7 +12677,8 @@ es O
 la O
 reina O
 de O
-Hungría B-LOCsu O
+Hungría B-LOC
+su O
 huéspeda O
 me O
 contó O
@@ -12595,7 +12693,8 @@ hayamos O
 traído O
 dueño O
 a O
-Nápoles B-LOCNo O
+Nápoles B-LOC
+No O
 ha O
 sido O
 poco O
@@ -12670,7 +12769,8 @@ que O
 es O
 reina O
 de O
-Hungría B-LOCElla O
+Hungría B-LOC
+Ella O
 lo O
 dice O
 Yo O
@@ -12696,7 +12796,8 @@ acabando O
 la O
 empresa O
 de O
-Milán B-LOCcuya O
+Milán B-LOC
+cuya O
 Duquesa O
 me O
 ha O
@@ -12787,7 +12888,8 @@ bien O
 perdido O
 Perdí O
 a O
-Milán B-LOCla O
+Milán B-LOC
+la O
 Duquesa O
 perdí O
 pero O
@@ -12814,7 +12916,8 @@ muy O
 mal O
 duque O
 de O
-Calabria B-LOCsoy O
+Calabria B-LOC
+soy O
 El O
 parabién O
 que O
@@ -12844,7 +12947,8 @@ enjerta O
 en O
 reina O
 de O
-Hungría B-LOCDéjame O
+Hungría B-LOC
+Déjame O
 Fabio O
 con O
 ella O
@@ -13088,10 +13192,12 @@ nombre O
 llamaraste O
 Cesa O
 A O
-Milán B-LOCte O
+Milán B-LOC
+te O
 daba O
 a O
-Milán B-LOCdesprecias O
+Milán B-LOC
+desprecias O
 no O
 es O
 para O
@@ -13140,7 +13246,8 @@ hicieran O
 guerra O
 dentro O
 de O
-Milán B-LOCpoco O
+Milán B-LOC
+poco O
 le O
 temiera O
 la O
@@ -13347,7 +13454,8 @@ fue O
 tu O
 belleza O
 que O
-Milán B-LOCno O
+Milán B-LOC
+no O
 era O
 riqueza O
 Si O
@@ -13704,7 +13812,8 @@ señora O
 el O
 rey O
 de O
-Nápoles B-LOCdeja O
+Nápoles B-LOC
+deja O
 la O
 jornada O
 que O
@@ -13776,7 +13885,8 @@ la O
 fiera O
 duquesa O
 de O
-Milán B-LOCque O
+Milán B-LOC
+que O
 es O
 Circe O
 y O
@@ -13829,7 +13939,8 @@ cabellos O
 la O
 traeré O
 a O
-Nápoles B-LOCpresa O
+Nápoles B-LOC
+presa O
 si O
 no O
 es O
@@ -13902,15 +14013,19 @@ que O
 me O
 vuelva O
 a O
-España B-LOCa O
-Francia B-LOCo O
-Inglaterra B-LOCLlama O
+España B-LOC
+a O
+Francia B-LOC
+o O
+Inglaterra B-LOC
+Llama O
 a O
 Roberto O
 almirante O
 duque O
 de O
-Calabria B-LOCsea O
+Calabria B-LOC
+sea O
 cásale O
 con O
 doña O
@@ -14199,7 +14314,8 @@ intentas O
 La O
 duquesa O
 de O
-Milán B-LOCPues O
+Milán B-LOC
+Pues O
 yo O
 soy O
 Quién O
