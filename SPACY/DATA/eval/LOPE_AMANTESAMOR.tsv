@@ -484,7 +484,7 @@ No O
 se O
 usa O
 en O
-Valladolid B-LOC
+Valladolid  O
 Ya O
 es O
 otro O
@@ -767,7 +767,7 @@ estas O
 bravezas O
 en O
 aqueste O
-Flandes B-LOC
+Flandes  O
 paran O
 Realmente O
 Beatriz O
@@ -1701,7 +1701,7 @@ infiel O
 Mendoza O
 qué O
 tiene O
-España B-LOC
+España  O
 Por O
 qué O
 la O
@@ -1897,9 +1897,9 @@ con O
 dos O
 grillos O
 en O
-Orán B-LOC
+Orán  O
 o O
-Tremecén B-LOC
+Tremecén  O
 Parecéis O
 molinero O
 amor O
@@ -2203,7 +2203,7 @@ bien O
 el O
 fuerte O
 de O
-Tremecén B-LOC
+Tremecén  O
 o O
 la O
 fuerza O
@@ -2571,7 +2571,7 @@ los O
 virreyes O
 fue O
 a O
-Italia B-LOC
+Italia  O
 rompió O
 la O
 fe O
@@ -2681,7 +2681,7 @@ Clarinda O
 vengo O
 a O
 ver O
-Nápoles B-LOC
+Nápoles  O
 señora O
 mía O
 es O
@@ -2734,7 +2734,7 @@ por O
 poder O
 venir O
 a O
-España B-LOC
+España  O
 con O
 algún O
 nombre O
@@ -3956,7 +3956,7 @@ de O
 bien O
 Cómo O
 por O
-Italia B-LOC
+Italia  O
 ha O
 ido O
 don O
@@ -4855,7 +4855,7 @@ trasuntos O
 de O
 fregonas O
 de O
-Castilla B-LOC
+Castilla  O
 con O
 la O
 encarnada O
@@ -5294,7 +5294,7 @@ Lorenzo O
 Viene O
 agora O
 de O
-Italia B-LOC
+Italia  O
 Sí O
 mi O
 señora O
@@ -5323,7 +5323,7 @@ es O
 Es O
 cortesano O
 En O
-Madrid B-LOC
+Madrid  O
 nació O
 Sí O
 a O
@@ -5789,7 +5789,7 @@ casó O
 el O
 Rey O
 a O
-Italia B-LOC
+Italia  O
 con O
 el O
 Virrey O
@@ -5817,7 +5817,7 @@ que O
 el O
 corazón O
 en O
-Valladolid B-LOC
+Valladolid  O
 tendrías O
 y O
 que O
@@ -5830,11 +5830,11 @@ ocasión O
 Tuve O
 cartas O
 de O
-Valencia B-LOC
+Valencia  O
 de O
-Denia B-LOC
+Denia  O
 de O
-Barcelona B-LOC
+Barcelona  O
 con O
 tal O
 cuidado O
@@ -5846,13 +5846,13 @@ descuida O
 la O
 ausencia O
 De O
-Nápoles B-LOC
+Nápoles  O
 y O
 aun O
 al O
 cabo O
 de O
-Roma B-LOC
+Roma  O
 y O
 cuando O
 el O
@@ -6030,13 +6030,13 @@ y O
 en O
 fin O
 de O
-Nápoles B-LOC
+Nápoles  O
 vienes O
 tú O
 que O
 de O
 las O
-Indias B-LOC
+Indias  O
 no O
 Ya O
 está O
@@ -6066,7 +6066,7 @@ ocasión O
 sería O
 ir O
 a O
-Ginebra B-LOC
+Ginebra  O
 a O
 sermón O
 Qué O
@@ -7848,7 +7848,7 @@ mejor O
 que O
 ganado O
 a O
-Argel B-LOC
+Argel  O
 como O
 si O
 entrara O
@@ -8487,9 +8487,9 @@ no O
 era O
 posible O
 Desde O
-Toledo B-LOC
+Toledo  O
 a O
-Sevilla B-LOC
+Sevilla  O
 tarda O
 un O
 hombre O
@@ -8497,10 +8497,10 @@ una O
 semana O
 y O
 de O
-Sevilla B-LOC
+Sevilla  O
 a O
-la B-LOC
-Habana I-LOC
+la  O
+Habana O
 no O
 ve O
 en O
@@ -8545,7 +8545,7 @@ por O
 la O
 calle O
 de O
-Getafe B-LOC
+Getafe  O
 solamente O
 no O
 saliera O
@@ -8895,7 +8895,7 @@ nobleza O
 Como O
 ha O
 quedado O
-Madrid B-LOC
+Madrid  O
 de O
 la O
 suerte O
@@ -9219,7 +9219,7 @@ me O
 ha O
 contado O
 de O
-Italia B-LOC
+Italia  O
 Es O
 un O
 gran O
@@ -9250,7 +9250,7 @@ donde O
 estaban O
 las O
 de O
-Malta B-LOC
+Malta  O
 de O
 donde O
 salieron O
@@ -9594,7 +9594,7 @@ tu O
 esquiva O
 voluntad O
 de O
-Madrid B-LOC
+Madrid  O
 y O
 de O
 tal O
@@ -9634,7 +9634,7 @@ ya O
 ni O
 tú O
 ni O
-Madrid B-LOC
+Madrid  O
 me O
 veréis O
 Nunca O
@@ -9646,7 +9646,7 @@ vas O
 Mi O
 vida O
 a O
-Valladolid B-LOC
+Valladolid  O
 Debes O
 allá O
 de O
@@ -9898,7 +9898,7 @@ estafeta O
 pasada O
 envió O
 a O
-Sevilla B-LOC
+Sevilla  O
 dos O
 mil O
 pesos O
@@ -9970,7 +9970,7 @@ mozo O
 y O
 nacido O
 en O
-Madrid B-LOC
+Madrid  O
 De O
 mi O
 consejo O
@@ -10232,7 +10232,7 @@ los O
 moros O
 sobre O
 las O
-Alpujarras B-LOC
+Alpujarras  O
 algún O
 día O
 Tenga O
@@ -10405,7 +10405,7 @@ esta O
 villa O
 Partió O
 a O
-Nápoles B-LOC
+Nápoles  O
 con O
 los O
 condes O
@@ -10932,10 +10932,10 @@ Sí O
 voy O
 Venís O
 de O
-Italia B-LOC
+Italia  O
 Llegué O
 de O
-Italia B-LOC
+Italia  O
 habrá O
 cuatro O
 días O
@@ -11618,12 +11618,12 @@ le O
 he O
 visto O
 en O
-España B-LOC
+España  O
 Dónde O
 En O
-Sevilla B-LOC
+Sevilla  O
 En O
-Sevilla B-LOC
+Sevilla  O
 Sí O
 que O
 a O
@@ -11939,7 +11939,7 @@ Yo O
 a O
 los O
 montes O
-Pirineos B-LOC
+Pirineos  O
 Qué O
 hará O
 el O
@@ -11956,7 +11956,7 @@ sobre O
 el O
 cerco O
 de O
-Zamora B-LOC
+Zamora  O
 Murió O
 el O
 Draque O
@@ -11982,7 +11982,7 @@ de O
 cuando O
 fuistes O
 a O
-Orán B-LOC
+Orán  O
 Yo O
 diré O
 lo O
@@ -12162,7 +12162,7 @@ bestial O
 un O
 tonel O
 de O
-Flandes B-LOC
+Flandes  O
 érase O
 el O
 Gran O
@@ -12280,7 +12280,7 @@ de O
 trenos O
 en O
 la O
-Bermuda B-LOC
+Bermuda  O
 porque O
 yo O
 pensé O
@@ -13208,7 +13208,7 @@ vengas O
 que O
 quiero O
 a O
-Italia B-LOC
+Italia  O
 llevarte O
 que O
 entre O
@@ -14628,7 +14628,7 @@ se O
 te O
 olvidó O
 en O
-Madrid B-LOC
+Madrid  O
 para O
 algún O
 deudo O
@@ -14640,7 +14640,7 @@ el O
 registro O
 entrando O
 en O
-Valladolid B-LOC
+Valladolid  O
 Acordósete O
 también O
 de O
@@ -14676,7 +14676,7 @@ que O
 importe O
 ni O
 de O
-Madrid B-LOC
+Madrid  O
 he O
 salido O
 estando O
@@ -15069,7 +15069,7 @@ hazañas O
 más O
 que O
 una O
-Troya B-LOC
+Troya  O
 deshecha O
 Ahora O
 burlas O
@@ -15847,7 +15847,7 @@ las O
 nieves O
 del O
 alto O
-Guadarrama B-LOC
+Guadarrama  O
 el O
 sol O
 hermoso O
