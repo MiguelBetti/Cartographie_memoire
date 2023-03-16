@@ -215,7 +215,7 @@ en O
 Aragón B-LOC
 Que O
 en O
-Zaragoza O
+Zaragoza B-LOC
 estuviera O
 buen O
 Urrea O
@@ -2529,7 +2529,7 @@ junto O
 a O
 Italia B-LOC
 a O
-Francia O
+Francia B-LOC
 te O
 pasa O
 o O
@@ -4408,7 +4408,7 @@ voy O
 Dónde O
 pPatrón O
 A O
-Nápoles O
+Nápoles B-LOC
 la O
 bella O
 Padre O
@@ -13050,7 +13050,7 @@ las O
 que O
 son O
 de O
-Cerdeña O
+Cerdeña B-LOC
 y O
 de O
 Aragón B-LOC
@@ -14059,7 +14059,7 @@ si O
 me O
 entristezco O
 En O
-Sevilla O
+Sevilla B-LOC
 juega O
 cañas O
 el O
@@ -14660,7 +14660,7 @@ porque O
 sin O
 duda O
 en O
-Medina O
+Medina B-LOC
 no O
 se O
 trata O
@@ -15118,7 +15118,7 @@ tanto O
 que O
 despacho O
 a O
-Zaragoza O
+Zaragoza B-LOC
 a O
 la O
 Reina O
@@ -16689,7 +16689,7 @@ tiene O
 Sicilia B-LOC
 como O
 Aragón B-LOC
-Zaragoza O
+Zaragoza B-LOC
 o O
 vivan O
 acá O
