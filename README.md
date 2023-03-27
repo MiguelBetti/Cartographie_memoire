@@ -1,4 +1,6 @@
-# Lope et Rotrou à la carte
+# Le monde de Lope de Vega, du texte à la carte.
+# La *Comedia Nueva* du point de vue de la cartographie numérique.
+
 
 **Miguel Betti**
 
