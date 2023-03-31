@@ -5523,7 +5523,7 @@ indiano O
 y O
 que O
 en O
-Cádiz O
+Cádiz B-LOC
 me O
 casé O
 Qué O
@@ -12663,7 +12663,7 @@ si O
 este O
 moro O
 de O
-España O
+España B-LOC
 Azarque O
 fuera O
 el O
@@ -12672,15 +12672,15 @@ Ocaña B-LOC
 Zayde O
 el O
 de O
-Zocodover O
+Zocodover B-LOC
 Tarfe O
 el O
 de O
-Vivataubín O
+Vivataubín B-LOC
 Albayaldos O
 el O
 de O
-Olías O
+Olías B-LOC
 tuvieran O
 las O
 dichas O
@@ -13895,7 +13895,7 @@ le O
 aborrezco O
 y O
 desamo O
-AparteCayendo O
+Cayendo O
 viene O
 al O
 reclamo O
@@ -13915,7 +13915,6 @@ bien O
 A O
 mi O
 contento O
-C 
 Pues O
 negocia O
 y O

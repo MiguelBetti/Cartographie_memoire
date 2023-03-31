@@ -330,7 +330,7 @@ por O
 donde O
 puede O
 te O
-vee O
+ve O
 No O
 hay O
 mil O
@@ -14258,7 +14258,7 @@ De O
 Constantinopla B-LOC
 vine O
 a O
-Chipre 1
+Chipre B-LOC
 y O
 della O
 a O
@@ -14344,7 +14344,7 @@ en O
 la O
 feria O
 de O
-Azteclias O
+Azteclias B-LOC
 compró O
 un O
 niño O
@@ -14389,7 +14389,7 @@ turquescas O
 prendió O
 en O
 la O
-Chafalonia O
+Chafalonia B-LOC
 Camilo O
 el O
 alma O
@@ -14551,7 +14551,6 @@ un O
 bello O
 rapaz O
 agora O
-r O
 en O
 la O
 ciudad O
@@ -17023,7 +17022,6 @@ Teodoro O
 Una O
 grave O
 pena O
-r O
 me O
 detiene O
 y O
