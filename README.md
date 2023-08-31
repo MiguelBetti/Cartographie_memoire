@@ -1,5 +1,5 @@
 # Le monde de Lope de Vega, du texte à la carte.
-La *Comedia Nueva* du point de vue de la cartographie numérique.
+Analyse cartographique de la *Comedia Nueva*.
 
 
 **Miguel Betti**
