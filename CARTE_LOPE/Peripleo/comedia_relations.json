@@ -1,0 +1,2237 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+      {
+         "@id": "719819",
+         "uuid": "https://www.geonames.org/719819",
+         "type":"Feature",
+         "properties":{
+            "title":"Hungría",
+            "occurrences": [
+                  {"value": 5}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20,
+               47
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Hungría",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/719819"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La sortija del olvido",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1619"
+                }
+         ]
+   },
+      {
+         "@id": "719819",
+         "uuid": "https://www.geonames.org/390903",
+         "type":"Feature",
+         "properties":{
+            "title":"Grecia",
+            "occurrences": [
+                  {"value": 4}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.824312,
+               39.074208
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Grecia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/390903"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La sortija del olvido",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1619"
+                },
+                                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+        },
+      {
+         "@id": "6255146",
+         "uuid": "https://www.geonames.org/6255146",
+         "type":"Feature",
+         "properties":{
+            "title":"África",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.09375,
+               7.1881
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "África",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/6255146"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La sortija del olvido",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1619"
+                }
+            ]
+      },
+      {
+         "@id": "664661",
+         "uuid": "http://www.geonames.org/664661",
+         "type":"Feature",
+         "properties":{
+            "title":"Transilvania",
+            "occurrences": [
+                  {"value": 4}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25,
+               46.5
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Transilvania",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/664661"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La sortija del olvido",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1619"
+                }
+            ]
+      },
+      {
+         "@id": "2921044",
+         "uuid": "https://www.geonames.org/2921044",
+         "type":"Feature",
+         "properties":{
+            "title":"Alemania",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               10.5,
+               51.5
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Alemania",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/2921044"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La sortija del olvido",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1619"
+                }
+            ]
+      },
+      {
+         "@id": "197240",
+         "uuid": "https://pleiades.stoa.org/places/197240",
+         "type":"Feature",
+         "properties":{
+            "title":"Dalmacia",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               16.483426,
+               43.539561
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Dalmacia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/197240"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La sortija del olvido",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1619"
+                }
+            ]
+      },
+      {
+         "@id": "2623032",
+         "uuid": "http://www.geonames.org/2623032",
+         "type":"Feature",
+         "properties":{
+            "title":"Dinamarca",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               10.5,
+               56
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Dinamarca",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/2623032"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La sortija del olvido",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1619"
+                }
+            ]
+      },
+      {
+         "@id": "502866838",
+         "uuid": "https://pleiades.stoa.org/places/502866838",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "occurrences": [
+                  {"value": 4}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Roma",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/502866838"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La sortija del olvido",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1619"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },      
+      {
+         "@id": "3106672",
+         "uuid": "https://www.geonames.org/3106672",
+         "type":"Feature",
+         "properties":{
+            "title":"Valladolid",
+            "occurrences": [
+                  {"value": 4}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.72372,
+               41.65518
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Valladolid",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3106672"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },   
+      {
+         "@id": "3337388",
+         "uuid":"https://www.geonames.org/3337388",
+         "type":"Feature",
+         "properties":{
+            "title":"Flandes",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               4.5,
+               51
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Flandes",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3337388"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                }
+            ]
+      },    
+      {
+         "@id": "2510769",
+         "uuid":"https://www.geonames.org/2510769",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "occurrences": [
+                  {"value": 40}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "España",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/2510769"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },    
+      {
+         "@id": "3173435",
+         "uuid":"https://www.geonames.org/3173435",
+         "type":"Feature",
+         "properties":{
+            "title":"Milán",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               9.18951,
+               45.46427
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Milán",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3173435"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "2485920",
+         "uuid":"http://www.geonames.org/2485920",
+         "type":"Feature",
+         "properties":{
+            "title":"Orán",
+            "occurrences": [
+                  {"value": 2}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.5,
+               35.66667
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Orán",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/2485920"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "3175395",
+         "uuid":"https://www.geonames.org/3175395",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "occurrences": [
+                  {"value": 21}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Italia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3175395"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "3117766",
+         "uuid":"https://www.geonames.org/3117766",
+         "type":"Feature",
+         "properties":{
+            "title":"Nápoles",
+            "occurrences": [
+                  {"value": 31}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.24641,
+               40.85631
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Nápoles",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3117766"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "3104199",
+         "uuid":"https://www.geonames.org/3104199",
+         "type":"Feature",
+         "properties":{
+            "title":"Castilla",
+            "occurrences": [
+                  {"value": 19}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.25,
+               41.66667
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Castilla",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3104199"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "3117735",
+         "uuid":"https://www.geonames.org/3117735",
+         "type":"Feature",
+         "properties":{
+            "title":"Madrid",
+            "occurrences": [
+                  {"value": 19}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.70256,
+               40.4165
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Madrid",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3117735"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "2509954",
+         "uuid":"http://www.geonames.org/2509954",
+         "type":"Feature",
+         "properties":{
+            "title":"Valencia",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.37739,
+               39.46975
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Valencia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/2509954"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "2518878",
+         "uuid":"https://www.geonames.org/2518878",
+         "type":"Feature",
+         "properties":{
+            "title":"Denia",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.10574,
+               38.84078
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Denia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/2518878"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "3128760",
+         "uuid":"https://www.geonames.org/3128760",
+         "type":"Feature",
+         "properties":{
+            "title":"Barcelona",
+            "occurrences": [
+                  {"value": 3}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               2.15899,
+               41.38879
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Barcelona",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3128760"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "550595",
+         "uuid":"https://pleiades.stoa.org/places/550595",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "occurrences": [
+                  {"value": 7}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Troya",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/550595"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+               {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "3573345",
+         "uuid":"http://www.geonames.org/3573345",
+         "type":"Feature",
+         "properties":{
+            "title":"Bermuda",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -64.74003,
+               32.33022
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Bermuda",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/3573345"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },
+      {
+         "@id": "3104342",
+         "uuid":"https://www.geonames.org/3104342",
+         "type":"Feature",
+         "properties":{
+            "title":"Zamora",
+            "occurrences": [
+                  {"value": 3}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.74456,
+               41.50633
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Zamora",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3104342"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },   
+      {
+         "@id": "3176959",
+         "uuid":"http://www.geonames.org/3176959",
+         "type":"Feature",
+         "properties":{
+            "title":"Florencia",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               11.24626,
+               43.77925
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Florencia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/3176959"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },         
+      {
+         "@id": "6357709",
+         "uuid":"https://www.geonames.org/6357709",
+         "type":"Feature",
+         "properties":{
+            "title":"Granada",
+            "occurrences": [
+                  {"value": 4}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.60667,
+               37.18817
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Granada",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/6357709"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      },  
+      {
+         "@id": "2562770",
+         "uuid":"http://www.geonames.org/2562770",
+         "type":"Feature",
+         "properties":{
+            "title":"Malta",
+            "occurrences": [
+               {"value": 4}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.43333,
+               35.91667
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Malta",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/2562770"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      }, 
+      {
+         "@id": "3117789",
+         "uuid":"https://www.geonames.org/3117789",
+         "type":"Feature",
+         "properties":{
+            "title":"Indias",
+            "occurrences": [
+                  {"value": 3}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -102.552784,
+               23.634501
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Indias",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3117789"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                    {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      }, 
+      {
+         "@id": "2660646",
+         "uuid":"http://www.geonames.org/2660646",
+         "type":"Feature",
+         "properties":{
+            "title":"Ginebra",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               6.14569,
+               46.20222
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Ginebra",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/2660646"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      }, 
+      {
+         "@id": "2507480",
+         "uuid":"http://www.geonames.org/2507480",
+         "type":"Feature",
+         "properties":{
+            "title":"Argel",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               3.08746,
+               36.73225
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Argel",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/2507480"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      }, 
+      {
+         "@id": "3372516",
+         "uuid":"https://www.geonames.org/3372516",
+         "type":"Feature",
+         "properties":{
+            "title":"Toledo",
+            "occurrences": [
+                  {"value": 33}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.02263,
+               39.8581
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Toledo",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3372516"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      }, 
+      {
+         "@id": "2510911",
+         "uuid":"http://www.geonames.org/2510911",
+         "type":"Feature",
+         "properties":{
+            "title":"Sevilla",
+            "occurrences": [
+                  {"value": 9}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.97317,
+               37.38283
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Sevilla",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/2510911"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                }
+            ]
+      }, 
+      {
+         "@id": "3553478",
+         "uuid":"http://www.geonames.org/3553478",
+         "type":"Feature",
+         "properties":{
+            "title":"La Habana",
+            "occurrences": [
+                  {"value": 7}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -82.38304,
+               23.13302
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "La Habana",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/3553478"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      }, 
+      {
+         "@id": "6299337",
+         "uuid":"http://www.geonames.org/6299337",
+         "type":"Feature",
+         "properties":{
+            "title":"Getafe",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.72383,
+               40.29414
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Getafe",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/6299337"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Los amantes sin amor",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      }, 
+      {
+         "@id": "6361741",
+         "uuid":"https://www.geonames.org/6361741",
+         "type":"Feature",
+         "properties":{
+            "title":"Illescas",
+            "occurrences": [
+                  {"value": 31}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.84704,
+               40.12213
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Illescas",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/6361741"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El caballero de Illescas",
+                    "subgenre": "Picaresco",
+                    "genre": "Comedia",
+                    "date": "1620"
+                }
+            ]
+      }, 
+      {
+         "@id": "6255148",
+         "uuid":"https://www.geonames.org/6255148",
+         "type":"Feature",
+         "properties":{
+            "title":"Europa",
+            "occurrences": [
+                  {"value": 2}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               9.14062,
+               48.69096
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Europa",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/6255148"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                }
+            ]
+      },
+      {
+         "@id": "6255148",
+         "uuid":"https://www.geonames.org/3117825",
+         "type":"Feature",
+         "properties":{
+            "title":"Andalucía",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.5,
+               37.6
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Andalucía",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3117825"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                }
+            ]
+      },
+      {
+         "@id": "2267057",
+         "uuid":"http://www.geonames.org/2267057",
+         "type":"Feature",
+         "properties":{
+            "title":"Lisboa",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -9.13333,
+               38.71667
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Lisboa",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/2267057"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                }
+            ]
+      },
+      {
+         "@id": "3703443",
+         "uuid":"https://www.geonames.org/3703443",
+         "type":"Feature",
+         "properties":{
+            "title":"Panamá",
+            "occurrences": [
+                  {"value": 20}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -79.51973,
+               8.9936
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Panamá",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3703443"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                }
+            ]
+      },  
+      {
+         "@id": "3109254",
+         "uuid":"https://www.geonames.org/3109254",
+         "type":"Feature",
+         "properties":{
+            "title":"Segovia",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -79.51973,
+               8.9936
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Segovia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3109254"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La dama boba",
+                    "subgenre": "Urbano",
+                    "genre": "Comedia",
+                    "date": "1617"
+                }
+            ]
+      },  
+      {
+         "@id": "520998",
+         "uuid":"https://pleiades.stoa.org/places/520998",
+         "type":"Feature",
+         "properties":{
+            "title":"Constantinopla",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.9653517362,
+               41.0063714116
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Constantinopla",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/520998"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },  
+      {
+         "@id": "146669",
+         "uuid":"https://www.geonames.org/146669",
+         "type":"Feature",
+         "properties":{
+            "title":"Chipre",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               33,
+               35
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Chipre",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/146669"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      }, 
+      {
+         "@id": "3164600",
+         "uuid":"https://www.geonames.org/3164600",
+         "type":"Feature",
+         "properties":{
+            "title":"Venecia",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.32632,
+               45.44045
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Venecia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3164600"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },
+      {
+         "@id": "922695",
+         "uuid":"https://pleiades.stoa.org/places/922695",
+         "type":"Feature",
+         "properties":{
+            "title":"Persia",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.32632,
+               45.44045
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Persia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/922695"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },    
+      {
+         "@id": "174982",
+         "uuid":"http://www.geonames.org/174982",
+         "type":"Feature",
+         "properties":{
+            "title":"Armenia",
+            "occurrences": [
+                  {"value": 2}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               45,
+               40.25
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Armenia",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/174982"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },    
+      {
+         "@id": "8923209",
+         "uuid":"https://www.geonames.org/8923209",
+         "type":"Feature",
+         "properties":{
+            "title":"Tepecas",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -99.2575,
+               19.03333
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Tepecas",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/8923209"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },    
+      {
+         "@id": "6697802",
+         "uuid":"https://www.geonames.org/6697802",
+         "type":"Feature",
+         "properties":{
+            "title":"Creta",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.89502,
+               35.15585
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Creta",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/6697802"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },    
+      {
+         "@id": "298795",
+         "uuid":"https://www.geonames.org/298795",
+         "type":"Feature",
+         "properties":{
+            "title":"Turquía",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               35,
+               39
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Turquía",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/298795"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      }, 
+      {
+         "@id": "3336899",
+         "uuid":"http://www.geonames.org/3336899",
+         "type":"Feature",
+         "properties":{
+            "title":"Aragón",
+            "occurrences": [
+                  {"value": 6}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.66667,
+               41.5
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Aragón",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "http://www.geonames.org/3336899"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },       
+      {
+         "@id": "2264397",
+         "uuid":"https://www.geonames.org/2264397",
+         "type":"Feature",
+         "properties":{
+            "title":"Portugal",
+            "occurrences": [
+                  {"value": 4}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -8.13057,
+               39.6945
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "Portugal",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/2264397"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      },    
+      {
+         "@id": "6362996",
+         "uuid":"https://www.geonames.org/6362996",
+         "type":"Feature",
+         "properties":{
+            "title":"León",
+            "occurrences": [
+                  {"value": 1}
+            ]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.56716,
+               42.57357
+            ]
+      },
+         "descriptions": "",
+         "names": [
+            {
+                  "toponym": "León",
+                    "lang": "es"
+            }
+         ],
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/6362996"
+            }
+         ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "El perro del hortelano",
+                    "subgenre": "Palatino",
+                    "genre": "Comedia",
+                    "date": "1618"
+                }
+            ]
+      }
+   ]
+}

@@ -1,1124 +1,1713 @@
 {
-    "@id": "https://w3id.org/drama",
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
-        {
-            "@id": "https://w3id.org/drama/0b817a8b-69c6-49ac-8a09-0ba514f86ccb",
-            "type": "Feature",
-            "properties": {
-                "title": "Mesopotamia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    44.40088,
-                    33.34058
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/462314"}
+   "@id":"https://w3id.org/drama",
+   "type":"FeatureCollection",
+   "@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+   "features":[
+      {
+         "@id":"https://w3id.org/drama/cad6ba40-0e08-4bb9-b848-dabc242a42b7",
+         "type":"Feature",
+         "properties":{
+            "title":"Mesopotamia",
+            "obra":"Lo fingido verdadero",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               44.40088,
+               33.34058
             ]
-        },
-        {
-            "@id": "https://w3id.org/drama/dafe95bf-4163-41ff-b658-f1ecccf3a1b5",
-            "type": "Feature",
-            "properties": {
-                "title": "Damasco",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.309102,
-                    33.511612
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/678106"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/cb161b2d-9a70-4bc3-b40f-9c50a6d2cd23",
-            "type": "Feature",
-            "properties": {
-                "title": "Persia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    52.889437,
-                    29.9353403333
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/922695"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/530a4ccd-73ab-48c9-8d35-874ac89f8404",
-            "type": "Feature",
-            "properties": {
-                "title": "Marsella",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.38107,
-                    43.29695
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2995469"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/907986e5-4abb-4df2-882e-71cff68509ff",
-            "type": "Feature",
-            "properties": {
-                "title": "Roma antigua",
-                "obras": "Lo fingido verdadero, Fuente Ovejuna",
-                "menciones": 71
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.4847567763,
-                    41.8925745251
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/502866838"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/98105dbc-3da6-4f6c-8dd0-ec70de27a35e",
-            "type": "Feature",
-            "properties": {
-                "title": "Troya",
-                "obras": "Lo fingido verdadero, Laura perseguida",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.23666572,
-                    39.954496182
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/550595"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/f00e216d-3878-4325-ab88-dd313c495461",
-            "type": "Feature",
-            "properties": {
-                "title": "Epiro",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.7877021411,
-                    39.5464840166
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/530871"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/5044081f-df45-4afe-990f-5d7fea32e745",
-            "type": "Feature",
-            "properties": {
-                "title": "Lacedemonia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    22.4601869,
-                    37.075742175
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/570406"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/8eb8f16a-1636-4b15-aae8-740aa5b7c225",
-            "type": "Feature",
-            "properties": {
-                "title": "Asia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    89.29688,
-                    29.84064
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/6255147"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/989fffb4-a1f3-4356-80ea-35e7fbbd68ce",
-            "type": "Feature",
-            "properties": {
-                "title": "España",
-                "obras": "Lo fingido verdadero",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.74922,
-                    40.463667
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2510769"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/414a42f6-c18f-4d1e-b5bb-f81b1030aeb5",
-            "type": "Feature",
-            "properties": {
-                "title": "Grecia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.824312,
-                    39.074208
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/390903"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/e36adc79-1655-40b3-90c2-97a51575fed7",
-            "type": "Feature",
-            "properties": {
-                "title": "Indias",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.552784,
-                    23.634501
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3117789"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/fa22f136-2d76-4457-890a-1db8fe4da688",
-            "type": "Feature",
-            "properties": {
-                "title": "Libia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.228331,
-                    26.3351
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2215636"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/ca3118bf-5223-4fdf-97e9-47e1b616f9f5",
-            "type": "Feature",
-            "properties": {
-                "title": "Atenas",
-                "obras": "Lo fingido verdadero, Laura perseguida",
-                "menciones": 4
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.726587521,
-                    37.9727951076
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/579885"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1ef9f4c2-4028-4b03-8035-28f3ce97f255",
-            "type": "Feature",
-            "properties": {
-                "title": "Siria",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.996815,
-                    34.802075
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/163843"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/cac80186-1e1a-4364-8c00-deb817e37ff8",
-            "type": "Feature",
-            "properties": {
-                "title": "Italia",
-                "obras": "Lo fingido verdadero, Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.83333,
-                    42.83333
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3175395"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/142b290a-b90a-42b4-92aa-69da6f040843",
-            "type": "Feature",
-            "properties": {
-                "title": "Hungría",
-                "obras": "Laura perseguida",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20,
-                    47
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/719819"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/a20ce5cb-4c81-4ec1-8298-d313f0616aff",
-            "type": "Feature",
-            "properties": {
-                "title": "Etiopía",
-                "obras": "Laura perseguida",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.5,
-                    9
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/337996"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1fd6bcdc-caf6-4e13-9db0-92b7c2e01a20",
-            "type": "Feature",
-            "properties": {
-                "title": "Arabia",
-                "obras": "Laura perseguida",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    45.7590517643,
-                    14.9082523955
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/29475"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/6e5fc587-fb14-4e8a-9f93-5f1a476d45e3",
-            "type": "Feature",
-            "properties": {
-                "title": "España",
-                "obras": "Laura perseguida, Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 5
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.74922,
-                    40.463667
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2510769"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/2b53dea4-3706-4779-b4e0-4e1593691a2d",
-            "type": "Feature",
-            "properties": {
-                "title": "Santiago de Compostela",
-                "obras": "Laura perseguida",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -8.54569,
-                    42.88052
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3109642"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1222e4a3-28ce-4660-b0b9-ab623b01bb22",
-            "type": "Feature",
-            "properties": {
-                "title": "Cleves",
-                "obras": "La hermosa Alfreda",
-                "menciones": 16
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.13865,
-                    51.78826
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2887835"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/100ceb94-7499-494b-ae60-789f4d61827c",
-            "type": "Feature",
-            "properties": {
-                "title": "Dalmacia",
-                "obras": "La hermosa Alfreda",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.483426,
-                    43.539561
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/197240"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/9cdacae2-f565-4265-81a5-2090de76e2f1",
-            "type": "Feature",
-            "properties": {
-                "title": "Escocia",
-                "obras": "La hermosa Alfreda",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4,
-                    56
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2638360"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/bc95b0c0-0515-4c74-96d7-d5d2bad6270a",
-            "type": "Feature",
-            "properties": {
-                "title": "Chipre",
-                "obras": "La hermosa Alfreda",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33,
-                    35
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/146669"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/48171b81-88cf-420e-beac-f4bad7eaa2b1",
-            "type": "Feature",
-            "properties": {
-                "title": "Marruecos",
-                "obras": "La hermosa Alfreda",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -10,
-                    28.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2542007"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/57a5c33e-a13b-4ed2-bd8c-7dafc331eedf",
-            "type": "Feature",
-            "properties": {
-                "title": "Aragón",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 32
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.66667,
-                    41.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/3336899"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/0ff5c2df-33c9-4064-bf6d-e2afabb3680b",
-            "type": "Feature",
-            "properties": {
-                "title": "Castilla",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 33
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.25,
-                    41.66667
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3104199"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/9c740dce-8bec-404c-a73f-790614e4e61d",
-            "type": "Feature",
-            "properties": {
-                "title": "Teruel",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 6
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.10646,
-                    40.3456
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3108126"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/335c0054-4026-41e4-abef-1cb047e4d059",
-            "type": "Feature",
-            "properties": {
-                "title": "Zaragoza",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 6
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.87734,
-                    41.65606
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3104324"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/0e932650-cbf6-4b18-9bcd-202cb86a789f",
-            "type": "Feature",
-            "properties": {
-                "title": "Navarra",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 4
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.66667,
-                    42.75
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3115609"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/880a134d-b5ba-4692-aa1b-0daa884c32a2",
-            "type": "Feature",
-            "properties": {
-                "title": "Valencia",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.37739,
-                    39.46975
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2509954"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/b5f53a5c-6a8c-46aa-b479-a75703e7b560",
-            "type": "Feature",
-            "properties": {
-                "title": "Nápoles",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.24641,
-                    40.85631
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3117766"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/521a2dcf-e25c-451a-bd05-ff696a6e63a8",
-            "type": "Feature",
-            "properties": {
-                "title": "Sevilla",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.97317,
-                    37.38283
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2510911"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/a89fbdf2-279d-4378-a2a3-2e83ce77cabe",
-            "type": "Feature",
-            "properties": {
-                "title": "Gibraltar",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.35257,
-                    36.14474
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2411585"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/e2adcaa0-4710-4db3-b340-042c7efa6d7a",
-            "type": "Feature",
-            "properties": {
-                "title": "África",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.09375,
-                    7.1881
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/6255146"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/17eeb041-fad8-439e-be13-995585a39c34",
-            "type": "Feature",
-            "properties": {
-                "title": "Mallorca",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.01197,
-                    39.6078
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2514239"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/caf5358f-57ce-48f0-b314-2ede4c8bbe90",
-            "type": "Feature",
-            "properties": {
-                "title": "Portugal",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 6
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -8.13057,
-                    39.6945
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2264397"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/915da4b8-2ddd-450e-be05-80756597a940",
-            "type": "Feature",
-            "properties": {
-                "title": "Madrid",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.70256,
-                    40.4165
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3117735"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/e9fdb6e8-12ad-436f-bb3c-d7b47bca4407",
-            "type": "Feature",
-            "properties": {
-                "title": "Francia",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2,
-                    46
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3017382"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/fa0e05e4-94ba-4603-bd79-e0328ed8e08b",
-            "type": "Feature",
-            "properties": {
-                "title": "Toledo",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.02263,
-                    39.8581
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3372516"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/691cdac0-5067-4ce4-9794-e80584715dbe",
-            "type": "Feature",
-            "properties": {
-                "title": "Barcelona",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.15899,
-                    41.38879
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3128760"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/0a644c40-458f-479d-a04e-cd3e019df65c",
-            "type": "Feature",
-            "properties": {
-                "title": "Jaca",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.54987,
-                    42.56898
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/3120211"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/74f564ee-5ea7-4081-9fe7-db8c760750d5",
-            "type": "Feature",
-            "properties": {
-                "title": "Jerusalén",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.234156,
-                    31.776679
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/687928"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/ec1d15fe-e6f6-44c7-8917-e2a7c02f0a82",
-            "type": "Feature",
-            "properties": {
-                "title": "Almagro",
-                "obras": "Fuente Ovejuna",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.71131,
-                    38.88941
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2521928"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/84d5abe1-8355-42ac-8977-ab026a761c90",
-            "type": "Feature",
-            "properties": {
-                "title": "Ciudad Real",
-                "obras": "Fuente Ovejuna",
-                "menciones": 10
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4,
-                    39
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2519401"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1764b87a-b0eb-42b7-b055-b24011803875",
-            "type": "Feature",
-            "properties": {
-                "title": "Andalucía",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.5,
-                    37.6
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3117825"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/325d23bd-6988-433d-8f1c-b03d4a9b80f5",
-            "type": "Feature",
-            "properties": {
-                "title": "Fuente Ovejuna",
-                "obras": "Fuente Ovejuna",
-                "menciones": 36
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.45186,
-                    38.26232
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/6357224"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1273da8d-30a7-49b7-b22c-4c5dc5e1cee1",
-            "type": "Feature",
-            "properties": {
-                "title": "Granada",
-                "obras": "Fuente Ovejuna",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.59078,
-                    37.18863
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/6357709"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/18cf31ee-0313-4001-9f7b-38e96109a71a",
-            "type": "Feature",
-            "properties": {
-                "title": "Extremadura",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.16667,
-                    39.16667
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2593112"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/07d36642-d802-4182-8e69-98c30ab1976c",
-            "type": "Feature",
-            "properties": {
-                "title": "Córdoba",
-                "obras": "Fuente Ovejuna",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.77275,
-                    37.89155
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2519240"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/6553a3af-72ac-46d2-96c9-69239b6968e3",
-            "type": "Feature",
-            "properties": {
-                "title": "Transilvania",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    25,
-                    46.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/664661"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/83686201-6020-4053-aaf9-eb6cb78cd927",
-            "type": "Feature",
-            "properties": {
-                "title": "Alemania",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.5,
-                    51.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2921044"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/b4df4e5b-0caa-4b84-9a37-5a6153271efd",
-            "type": "Feature",
-            "properties": {
-                "title": "Gascuña",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    43.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3016565"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/cc927ff1-b0cd-4f71-8ee9-5673db531f85",
-            "type": "Feature",
-            "properties": {
-                "title": "Hircania",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.5626572101,
-                    38.7184715253
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/550587"}
-            ]
-        }
-    ],
-    "indexing": {
-        "@type": "Dataset",
-        "name": "Drama",
-        "description": "",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "type": "closeMatch",
-                "identifier": "https://w3id.org/drama",
-        "temporalCoverage": "1066/2022",
-        "spatialCoverage": {
-            "@type": "GeoShape",
-            "box": "0.580101 0.00149 60.355 9.78667",
-            "geo": {
-                "@type": "GeoShape",
-                "box": "7.1881 0 56 102.552784"
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/462314"
             }
-        }
-    }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/9b115d01-5ee1-4a25-bfa1-72c810d73190",
+         "type":"Feature",
+         "properties":{
+            "title":"Damasco",
+            "obra":"Lo fingido verdadero",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               36.309102,
+               33.511612
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/678106"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/f63dd0e3-7fdb-4a7d-a8aa-33b4f07f5f63",
+         "type":"Feature",
+         "properties":{
+            "title":"Persia",
+            "obra":"Lo fingido verdadero",
+            "menciones":3,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               52.889437,
+               29.9353403333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/922695"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/00af0caf-8b3f-4cae-b564-56acf5fe3e03",
+         "type":"Feature",
+         "properties":{
+            "title":"Marsella",
+            "obra":"Lo fingido verdadero",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               5.38107,
+               43.29695
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2995469"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/fceec7cf-5e12-4a99-bf97-2ec58b697fcf",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "obra":"Lo fingido verdadero",
+            "menciones":70,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/502866838"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/9702b9d4-8952-4cd4-896a-a5145c6ea12d",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "obra":"Lo fingido verdadero",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550595"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/a09e4153-ab47-4114-ae78-d499fb35b6d8",
+         "type":"Feature",
+         "properties":{
+            "title":"Epiro",
+            "obra":"Lo fingido verdadero",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20.7877021411,
+               39.5464840166
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/530871"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/85f29c04-6bfb-45b0-9ba5-424a489c876e",
+         "type":"Feature",
+         "properties":{
+            "title":"Lacedemonia",
+            "obra":"Lo fingido verdadero",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.4601869,
+               37.075742175
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/570406"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/06fdf4f8-d592-4c26-b831-f70ea8969002",
+         "type":"Feature",
+         "properties":{
+            "title":"Asia",
+            "obra":"Lo fingido verdadero",
+            "menciones":3,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               89.29688,
+               29.84064
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6255147"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/406f2017-648e-4c7a-bc0f-0de44b6b1ef9",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"Lo fingido verdadero",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/63d818ab-1405-48a9-81ac-41a733c3784c",
+         "type":"Feature",
+         "properties":{
+            "title":"Grecia",
+            "obra":"Lo fingido verdadero",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.824312,
+               39.074208
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/390903"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/f26e37a1-88af-4782-9b1b-b58a69acba60",
+         "type":"Feature",
+         "properties":{
+            "title":"Indias",
+            "obra":"Lo fingido verdadero",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -102.552784,
+               23.634501
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117789"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/90696013-e96a-4e3e-a98f-abaad397145f",
+         "type":"Feature",
+         "properties":{
+            "title":"Libia",
+            "obra":"Lo fingido verdadero",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               17.228331,
+               26.3351
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2215636"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/736ffa54-a307-4a0e-928f-e4c7b1a7f115",
+         "type":"Feature",
+         "properties":{
+            "title":"Atenas",
+            "obra":"Lo fingido verdadero",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.726587521,
+               37.9727951076
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/579885"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/08799282-f521-4b6d-ac00-b6a47c79cb37",
+         "type":"Feature",
+         "properties":{
+            "title":"Siria",
+            "obra":"Lo fingido verdadero",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               38.996815,
+               34.802075
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/163843"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/827923f9-f8c0-42d3-9d31-be7425d82667",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "obra":"Lo fingido verdadero",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte X de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Hagiográfico-legendario"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3175395"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/3fe9cb2c-66d4-46c6-89b0-8b38895dd3fc",
+         "type":"Feature",
+         "properties":{
+            "title":"Atenas",
+            "obra":"Laura perseguida",
+            "menciones":2,
+            "publicación":1614,
+            "libro":"Parte IV de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.726587521,
+               37.9727951076
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/579885"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/be4e218c-2663-4ac3-ae40-cb50c2f0d4b5",
+         "type":"Feature",
+         "properties":{
+            "title":"Hungría",
+            "obra":"Laura perseguida",
+            "menciones":2,
+            "publicación":1614,
+            "libro":"Parte IV de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20,
+               47
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/719819"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/76134a27-675a-4f8e-9666-7296dd9b4020",
+         "type":"Feature",
+         "properties":{
+            "title":"Etiopía",
+            "obra":"Laura perseguida",
+            "menciones":1,
+            "publicación":1614,
+            "libro":"Parte IV de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               39.5,
+               9
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/337996"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/326b6494-4d75-427e-82ae-9771fa04481b",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "obra":"Laura perseguida",
+            "menciones":1,
+            "publicación":1614,
+            "libro":"Parte IV de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550595"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/2912ede1-2cf5-4183-946f-f490e6feafd1",
+         "type":"Feature",
+         "properties":{
+            "title":"Arabia",
+            "obra":"Laura perseguida",
+            "menciones":1,
+            "publicación":1614,
+            "libro":"Parte IV de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               45.7590517643,
+               14.9082523955
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/29475"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/1f1e5d50-25fa-40ea-82d9-f61fb9c4652b",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"Laura perseguida",
+            "menciones":1,
+            "publicación":1614,
+            "libro":"Parte IV de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/c6388b61-1aca-43a9-b3fd-b0b0cf2e33aa",
+         "type":"Feature",
+         "properties":{
+            "title":"Santiago de Compostela",
+            "obra":"Laura perseguida",
+            "menciones":1,
+            "publicación":1614,
+            "libro":"Parte IV de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -8.54569,
+               42.88052
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3109642"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/287555c4-3418-4f86-8926-300cd10bb5a1",
+         "type":"Feature",
+         "properties":{
+            "title":"Cleves",
+            "obra":"La hermosa Alfreda",
+            "menciones":16,
+            "publicación":1618,
+            "libro":"Parte IX de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               6.13865,
+               51.78826
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2887835"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/7ec90932-aa15-4263-8790-a648ed9f8630",
+         "type":"Feature",
+         "properties":{
+            "title":"Dalmacia",
+            "obra":"La hermosa Alfreda",
+            "menciones":3,
+            "publicación":1618,
+            "libro":"Parte IX de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               16.483426,
+               43.539561
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/197240"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/2e735afb-6daa-4552-9960-134d48d30c4a",
+         "type":"Feature",
+         "properties":{
+            "title":"Escocia",
+            "obra":"La hermosa Alfreda",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte IX de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4,
+               56
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2638360"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/2be52993-0c03-49a1-a4e5-d03b7e4583cc",
+         "type":"Feature",
+         "properties":{
+            "title":"Chipre",
+            "obra":"La hermosa Alfreda",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte IX de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               33,
+               35
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/146669"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/319056f8-cb23-49a2-afe8-2ac7de85a872",
+         "type":"Feature",
+         "properties":{
+            "title":"Marruecos",
+            "obra":"La hermosa Alfreda",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte IX de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -10,
+               28.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2542007"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/a2449610-3704-49a0-9757-99d7721c6d5f",
+         "type":"Feature",
+         "properties":{
+            "title":"Aragón",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":27,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.66667,
+               41.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3336899"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/1c29f391-b2de-4872-a92f-e99a2c865232",
+         "type":"Feature",
+         "properties":{
+            "title":"Castilla",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":21,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.25,
+               41.66667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104199"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/d1831589-367c-4118-b312-23e43ad8fcd6",
+         "type":"Feature",
+         "properties":{
+            "title":"Teruel",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":6,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.10646,
+               40.3456
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3108126"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/0ff26901-1955-4164-b80a-e8ed64f7992e",
+         "type":"Feature",
+         "properties":{
+            "title":"Zaragoza",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":6,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.87734,
+               41.65606
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104324"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/941596a1-fa6c-48c8-b86a-c14b0bdd968f",
+         "type":"Feature",
+         "properties":{
+            "title":"Navarra",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":3,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.66667,
+               42.75
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3115609"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/20f6a2fb-df44-40b6-b4c2-88b1187790c7",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":3,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/3f358bb5-ccf6-464a-9bd6-3d53dffd785c",
+         "type":"Feature",
+         "properties":{
+            "title":"Valencia",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":3,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.37739,
+               39.46975
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2509954"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/149d2425-4ca5-4d06-9e8e-1e3f179507e2",
+         "type":"Feature",
+         "properties":{
+            "title":"Nápoles",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":2,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.24641,
+               40.85631
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117766"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/f42074b4-282c-428f-9ee6-bf5c5409de3c",
+         "type":"Feature",
+         "properties":{
+            "title":"Sevilla",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.97317,
+               37.38283
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2510911"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/92162af5-4513-4238-b123-91fb4e5ba673",
+         "type":"Feature",
+         "properties":{
+            "title":"Gibraltar",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.35257,
+               36.14474
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2411585"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/facb40c2-8cd7-4ae7-b478-61e90350cab8",
+         "type":"Feature",
+         "properties":{
+            "title":"África",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.09375,
+               7.1881
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6255146"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/38dd41d1-704a-4e16-bdcf-1cca85bc8670",
+         "type":"Feature",
+         "properties":{
+            "title":"Mallorca",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               3.01197,
+               39.6078
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2514239"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/8d1c927d-1b5c-4d1b-a374-e67ed75b8d7e",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3175395"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/e1d9400a-6765-4574-b05f-a31a1e12cd17",
+         "type":"Feature",
+         "properties":{
+            "title":"Portugal",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -8.13057,
+               39.6945
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2264397"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/626b5c58-e01e-426e-8bc7-39cf785a4e7d",
+         "type":"Feature",
+         "properties":{
+            "title":"Madrid",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.70256,
+               40.4165
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117735"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/a9dc9e44-bfa5-486f-bb84-74c2dd7a5c64",
+         "type":"Feature",
+         "properties":{
+            "title":"Francia",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               2,
+               46
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3017382"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/826be7dc-107d-4ff9-9e68-1f1f41d67481",
+         "type":"Feature",
+         "properties":{
+            "title":"Toledo",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.02263,
+               39.8581
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3372516"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/8b07aa06-a512-4a4c-9cc6-3dc8e638397d",
+         "type":"Feature",
+         "properties":{
+            "title":"Barcelona",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               2.15899,
+               41.38879
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3128760"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/4f7c63cd-4167-46ca-9d58-619ceffd0637",
+         "type":"Feature",
+         "properties":{
+            "title":"Jaca",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.54987,
+               42.56898
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3120211"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/5f78b204-096c-4294-8c90-01cd70d20c99",
+         "type":"Feature",
+         "properties":{
+            "title":"Jerusalén",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1,
+            "publicación":1612,
+            "libro":"Parte III de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Histórico"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               35.234156,
+               31.776679
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/687928"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/42f3aa4f-b105-4af8-b169-75ea4f1c41ff",
+         "type":"Feature",
+         "properties":{
+            "title":"Portugal",
+            "obra":"Fuente Ovejuna",
+            "menciones":5,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -8.13057,
+               39.6945
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2264397"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/469d5bf4-6e16-4151-b47f-835f6145c474",
+         "type":"Feature",
+         "properties":{
+            "title":"Castilla",
+            "obra":"Fuente Ovejuna",
+            "menciones":12,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.25,
+               41.66667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104199"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/1869e4c8-9d17-4bd4-a9d6-df7c6f52392b",
+         "type":"Feature",
+         "properties":{
+            "title":"Aragón",
+            "obra":"Fuente Ovejuna",
+            "menciones":5,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.66667,
+               41.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3336899"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/3c107156-003f-4222-ae1f-35a69207137d",
+         "type":"Feature",
+         "properties":{
+            "title":"Almagro",
+            "obra":"Fuente Ovejuna",
+            "menciones":2,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.71131,
+               38.88941
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2521928"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/ca64a4b4-4a06-46f3-872f-586144e2e740",
+         "type":"Feature",
+         "properties":{
+            "title":"Ciudad Real",
+            "obra":"Fuente Ovejuna",
+            "menciones":10,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4,
+               39
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2519401"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/7e2e22af-5638-497a-ab90-a2049b929f78",
+         "type":"Feature",
+         "properties":{
+            "title":"Andalucía",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.5,
+               37.6
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117825"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/ef25602d-5267-4122-8006-9630e757ee43",
+         "type":"Feature",
+         "properties":{
+            "title":"Fuente Obejuna",
+            "obra":"Fuente Ovejuna",
+            "menciones":36,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.45186,
+               38.26232
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6357224"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/1daaf6eb-7eb7-4c84-a2d4-0ca120c31e64",
+         "type":"Feature",
+         "properties":{
+            "title":"Granada",
+            "obra":"Fuente Ovejuna",
+            "menciones":3,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.59078,
+               37.18863
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/6357709"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/65ea5618-0a60-4a72-a672-c9ce8fcaf447",
+         "type":"Feature",
+         "properties":{
+            "title":"Navarra",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.66667,
+               42.75
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3115609"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/fe3c77d4-7dcf-4722-be2f-8899593c2d0a",
+         "type":"Feature",
+         "properties":{
+            "title":"Extremadura",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -6.16667,
+               39.16667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2593112"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/8a97ddfb-7ee7-4333-8cd4-a520a154b7da",
+         "type":"Feature",
+         "properties":{
+            "title":"Córdoba",
+            "obra":"Fuente Ovejuna",
+            "menciones":3,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.77275,
+               37.89155
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2519240"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/ee706910-d9c0-4956-8207-887fd4b6d343",
+         "type":"Feature",
+         "properties":{
+            "title":"Transilvania",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25,
+               46.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/664661"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/57d9496e-6e23-4c09-b456-bb31b760116c",
+         "type":"Feature",
+         "properties":{
+            "title":"Alemania",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               10.5,
+               51.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2921044"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/09c1ade9-8ea4-47a9-8c42-3e7e9c0b2407",
+         "type":"Feature",
+         "properties":{
+            "title":"Gascuña",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0,
+               43.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3016565"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/8e37f2eb-d4b0-4ec0-be27-cf08f035490b",
+         "type":"Feature",
+         "properties":{
+            "title":"Hircania",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.5626572101,
+               38.7184715253
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550587"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/a0efa659-9ba9-4a59-a2f2-6c1480a87a52",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/ecd05eb7-8417-4767-a49b-dfadbc806c3a",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "obra":"Fuente Ovejuna",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Drama",
+            "subgénero":"Villano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/502866838"
+            }
+         ]
+      }
+   ],
+   "indexing":{
+      "@type":"Dataset",
+      "name":"Drama",
+      "description":"",
+      "license":"https://creativecommons.org/licenses/by/4.0/",
+      "identifier":"https://w3id.org/drama",
+      "temporalCoverage":"1066/2022",
+      "spatialCoverage":{
+         "@type":"GeoShape",
+         "box":"0.580101 0.00149 60.355 9.78667",
+         "geo":{
+            "@type":"GeoShape",
+            "box":"7.1881 0 56 102.552784"
+         }
+      }
+   }
 }

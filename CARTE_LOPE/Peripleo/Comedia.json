@@ -1,0 +1,2207 @@
+{
+   "@id":"https://w3id.org/comedia",
+   "type":"FeatureCollection",
+   "@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+   "features":[
+      {
+         "@id":"https://w3id.org/comedia/ed72c8a5-a58f-4894-a2e6-5a28b08fb7cd",
+         "type":"Feature",
+         "properties":{
+            "title":"Hungría",
+            "obra":"La sortija del olvido",
+            "menciones":5,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20,
+               47
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/719819"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/3da390fe-2dc8-4981-9ddf-4417af763f22",
+         "type":"Feature",
+         "properties":{
+            "title":"Grecia",
+            "obra":"La sortija del olvido",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.824312,
+               39.074208
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/390903"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/30f3b7ce-40f1-4200-96e3-6deeab87fa4c",
+         "type":"Feature",
+         "properties":{
+            "title":"África",
+            "obra":"La sortija del olvido",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.09375,
+               7.1881
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6255146"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/393bf8a2-8764-4794-b3e9-fb11a918c616",
+         "type":"Feature",
+         "properties":{
+            "title":"Lidia",
+            "obra":"La sortija del olvido",
+            "menciones":2,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.2612252019,
+               38.3254473936
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550701"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/fedb741d-64cc-4a58-8389-ecb87f6ae074",
+         "type":"Feature",
+         "properties":{
+            "title":"Transilvania",
+            "obra":"La sortija del olvido",
+            "menciones":4,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25,
+               46.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/664661/transilvania"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/77df157a-d208-4d80-b0aa-2dbeeb7f8bbe",
+         "type":"Feature",
+         "properties":{
+            "title":"Alemania",
+            "obra":"La sortija del olvido",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               10.5,
+               51.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2921044"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/5a8c8214-c8c9-4ced-8b55-0f21355fd422",
+         "type":"Feature",
+         "properties":{
+            "title":"Dalmacia",
+            "obra":"La sortija del olvido",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               16.483426,
+               43.539561
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/197240"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/4929dad2-ad9c-4d90-91c0-45ab831151b2",
+         "type":"Feature",
+         "properties":{
+            "title":"Dinamarca",
+            "obra":"La sortija del olvido",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               10.5,
+               56
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2623032"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/0a2da4f7-6e3a-47ad-bd3e-3225fb71b724",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "obra":"La sortija del olvido",
+            "menciones":1,
+            "publicación":1619,
+            "libro":"Parte XII de las comedias de Lope de Vega",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/502866838"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/e7141e08-7763-4a1b-baa5-c448993893e7",
+         "type":"Feature",
+         "properties":{
+            "title":"Valladolid",
+            "obra":"Los amantes sin amor",
+            "menciones":4,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.72372,
+               41.65518
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3106672"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/f44943fa-131f-4f7b-95ce-8512b2375c7b",
+         "type":"Feature",
+         "properties":{
+            "title":"Flandes",
+            "obra":"Los amantes sin amor",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               4.5,
+               51
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3337388"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/bcabef43-b017-424d-b85a-d40231d5b70a",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"Los amantes sin amor",
+            "menciones":3,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/4fdd6255-12f6-4921-add1-e7c9615ac6fc",
+         "type":"Feature",
+         "properties":{
+            "title":"Milán",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               9.18951,
+               45.46427
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3173435"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/618028c9-495b-4953-8037-0ac39a900ff0",
+         "type":"Feature",
+         "properties":{
+            "title":"Orán",
+            "obra":"Los amantes sin amor",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.5,
+               35.66667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2485920"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/944a16e6-2ecb-4b4a-931b-8115462bea6c",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "obra":"Los amantes sin amor",
+            "menciones":8,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3175395"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/9a0e102b-556c-4d53-b228-bb3188893d8c",
+         "type":"Feature",
+         "properties":{
+            "title":"Nápoles",
+            "obra":"Los amantes sin amor",
+            "menciones":4,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.24641,
+               40.85631
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117766"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/3d728413-2ed4-4669-8499-cdf92018c02f",
+         "type":"Feature",
+         "properties":{
+            "title":"Castilla",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.25,
+               41.66667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104199"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/6fe9c9dc-8c6a-4647-8dd9-b575fe5767ff",
+         "type":"Feature",
+         "properties":{
+            "title":"Madrid",
+            "obra":"Los amantes sin amor",
+            "menciones":6,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.70256,
+               40.4165
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117735"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/e695abfc-ca78-4b51-af3c-4d7b39867693",
+         "type":"Feature",
+         "properties":{
+            "title":"Valencia",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.37739,
+               39.46975
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2509954/valencia.html"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/2ae0449f-10b2-41c4-ae5b-b4ac3d5c3cf3",
+         "type":"Feature",
+         "properties":{
+            "title":"Denia",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.10574,
+               38.84078
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2518878"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/609540af-b15f-4ac5-acd6-796d1d13ece3",
+         "type":"Feature",
+         "properties":{
+            "title":"Barcelona",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               2.15899,
+               41.38879
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3128760"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/f075bdc2-b4de-48ce-9239-0e0d58eb419f",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3169071"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/b187ddbe-743c-434d-9a31-1064ed6faeb5",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550595"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/717416db-9757-4618-8d5e-f8e630d57f19",
+         "type":"Feature",
+         "properties":{
+            "title":"Bermuda",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -64.74003,
+               32.33022
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3573345"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/989c6b12-4a3f-41c0-b19b-6338f07c47c5",
+         "type":"Feature",
+         "properties":{
+            "title":"Zamora",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.74456,
+               41.50633
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104342"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/9b1c7554-d35e-49ca-b696-c5625ea173f1",
+         "type":"Feature",
+         "properties":{
+            "title":"Florencia",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               11.24626,
+               43.77925
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3176959"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/03e3bbe1-ecec-44cc-8883-337613465942",
+         "type":"Feature",
+         "properties":{
+            "title":"Granada",
+            "obra":"Los amantes sin amor",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.60667,
+               37.18817
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6357709"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/4de617c6-8f1c-42f6-aa3d-7e6234e54b39",
+         "type":"Feature",
+         "properties":{
+            "title":"Malta",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.43333,
+               35.91667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2562770"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/5551b793-42d0-41aa-847e-f2415cf82345",
+         "type":"Feature",
+         "properties":{
+            "title":"Indias",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -102.552784,
+               23.634501
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117789"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/8dd5a81e-0ac3-4e4c-b86a-176e926760be",
+         "type":"Feature",
+         "properties":{
+            "title":"Ginebra",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               6.14569,
+               46.20222
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2660646"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/97f5bfaf-8818-4bd8-9ed1-583ea8ef5fd2",
+         "type":"Feature",
+         "properties":{
+            "title":"Argel",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               3.08746,
+               36.73225
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2507480"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/7d843da9-bba0-466e-bb96-55c6fc26c5c1",
+         "type":"Feature",
+         "properties":{
+            "title":"Toledo",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.02263,
+               39.8581
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3372516"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/be6b39ca-af10-4faa-9214-fda233469d52",
+         "type":"Feature",
+         "properties":{
+            "title":"Sevilla",
+            "obra":"Los amantes sin amor",
+            "menciones":7,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.97317,
+               37.38283
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2510911"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/5d87fc8e-cbc4-4573-88c5-56eba0492e07",
+         "type":"Feature",
+         "properties":{
+            "title":"La Habana",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -82.38304,
+               23.13302
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3553478"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/575e195b-9e51-4bb8-86ae-87ac22495c97",
+         "type":"Feature",
+         "properties":{
+            "title":"Getafe",
+            "obra":"Los amantes sin amor",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.72383,
+               40.29414
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/6299337"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/73a2dc3e-602f-4825-99de-0bd18d9d6ac8",
+         "type":"Feature",
+         "properties":{
+            "title":"Illescas",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.84704,
+               40.12213
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6361741"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/3a7dd265-b70e-4200-9cf6-ea630aa6398e",
+         "type":"Feature",
+         "properties":{
+            "title":"Europa",
+            "obra":"La dama boba",
+            "menciones":2,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               9.14062,
+               48.69096
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6255148"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/2d012b40-c9ae-4089-99a7-11d14213a34b",
+         "type":"Feature",
+         "properties":{
+            "title":"Sevilla",
+            "obra":"La dama boba",
+            "menciones":2,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.97317,
+               37.38283
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2510911"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/37d1872b-bcdb-4408-a7fe-bfd7899daa19",
+         "type":"Feature",
+         "properties":{
+            "title":"Andalucía",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.5,
+               37.6
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117825"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/ae91f21d-599c-419c-8cf8-e36f293cabbe",
+         "type":"Feature",
+         "properties":{
+            "title":"Castilla",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.25,
+               41.66667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104199"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/fb0a24ae-0445-4f28-816c-88e5a263c612",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"La dama boba",
+            "menciones":3,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/e7bc8b6e-45d6-45a0-9b81-e02c0e5cbb50",
+         "type":"Feature",
+         "properties":{
+            "title":"Madrid",
+            "obra":"La dama boba",
+            "menciones":6,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.70256,
+               40.4165
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117735"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/70b3c843-615a-455b-9bae-36a59820317c",
+         "type":"Feature",
+         "properties":{
+            "title":"Flandes",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               4.5,
+               51
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3337388"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/a3774d25-5be8-49f9-a103-8c7b4eddb535",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/502866838"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/0414e0ff-5970-481c-bfb1-f93436f00b0d",
+         "type":"Feature",
+         "properties":{
+            "title":"Grecia",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.824312,
+               39.074208
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/390903"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/872783e4-dfe4-473b-ae6f-b16e7cfaf213",
+         "type":"Feature",
+         "properties":{
+            "title":"Granada",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.60667,
+               37.18817
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6357709"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/5b564fa5-3add-4d17-8dcd-c7e229207e8b",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3175395"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/9993bf1c-f829-4f95-a85a-90a8006c09b4",
+         "type":"Feature",
+         "properties":{
+            "title":"Lisboa",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -9.13333,
+               38.71667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2267057"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/036895c6-69c5-4512-96cc-b07bf37f7059",
+         "type":"Feature",
+         "properties":{
+            "title":"Indias",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -102.552784,
+               23.634501
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117789"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/7cc6a4d6-d3b6-4f44-8890-2a2593887a1d",
+         "type":"Feature",
+         "properties":{
+            "title":"Panamá",
+            "obra":"La dama boba",
+            "menciones":20,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -79.51973,
+               8.9936
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3703443"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/5c558d02-55b0-42f1-9761-e6bd5bdc1cab",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "obra":"La dama boba",
+            "menciones":2,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550595"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/1f53c08e-bb9a-45dd-9151-f8d787945d71",
+         "type":"Feature",
+         "properties":{
+            "title":"Toledo",
+            "obra":"La dama boba",
+            "menciones":8,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.02263,
+               39.8581
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3372516"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/2d8f13b0-8ed9-41f1-964d-f8a01c98b793",
+         "type":"Feature",
+         "properties":{
+            "title":"Segovia",
+            "obra":"La dama boba",
+            "menciones":1,
+            "publicación":1617,
+            "libro":"Parte IX de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Urbano"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4,
+               41.16667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3109254"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/199c8c2b-7715-45b9-b7b4-e104ab64409f",
+         "type":"Feature",
+         "properties":{
+            "title":"Nápoles",
+            "obra":"El perro del hortelano",
+            "menciones":14,
+            "publicación":1620,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.24641,
+               40.85631
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117766"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/7c073e5f-08f4-47b4-b37c-8827dcafff1e",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "obra":"El perro del hortelano",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550595"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/fcc52c77-6ae5-47f8-a7fb-90b7f3c3412f",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "obra":"El perro del hortelano",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/502866838"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/11e59f1e-ddf2-4bbf-9c1b-a972e57a8f4e",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "obra":"El perro del hortelano",
+            "menciones":2,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3175395"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/a3ad5b97-de75-46d1-99f2-699212e1e884",
+         "type":"Feature",
+         "properties":{
+            "title":"Malta",
+            "obra":"El perro del hortelano",
+            "menciones":3,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.43333,
+               35.91667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2562770"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/0ccb3e95-1608-42fa-800b-579f352e1dd6",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"El perro del hortelano",
+            "menciones":9,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/b685b374-2614-4f81-8bea-7e3754539b17",
+         "type":"Feature",
+         "properties":{
+            "title":"Constantinopla",
+            "obra":"El perro del hortelano",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.9653517362,
+               41.0063714116
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/520998"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/aad91e82-6789-41be-b783-497312583be1",
+         "type":"Feature",
+         "properties":{
+            "title":"Chipre",
+            "obra":"El perro del hortelano",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               33,
+               35
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/146669"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/4496414d-02e4-47a6-92c3-800577ac9174",
+         "type":"Feature",
+         "properties":{
+            "title":"Venecia",
+            "obra":"El perro del hortelano",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.32632,
+               45.44045
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3164600"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/29dec90e-18e9-4489-882b-f134ef66c275",
+         "type":"Feature",
+         "properties":{
+            "title":"Persia",
+            "obra":"El perro del hortelano",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               52.889437,
+               29.9353403333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/922695"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/d252bf26-0bc4-465d-8554-4d45390fd0f9",
+         "type":"Feature",
+         "properties":{
+            "title":"Grecia",
+            "obra":"El perro del hortelano",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.824312,
+               39.074208
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/390903"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/14837b41-1126-42c2-b053-fb6c28272d20",
+         "type":"Feature",
+         "properties":{
+            "title":"Armenia",
+            "obra":"El perro del hortelano",
+            "menciones":2,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               45,
+               40.25
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/174982"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/4a720db0-74af-4717-b3d0-2bfce07c2ff8",
+         "type":"Feature",
+         "properties":{
+            "title":"Tepecas",
+            "obra":"El perro del hortelano",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -99.2575,
+               19.03333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/8923209"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/4a09b655-b1a4-4604-8412-bd9d55d171da",
+         "type":"Feature",
+         "properties":{
+            "title":"Creta",
+            "obra":"El perro del hortelano",
+            "menciones":1,
+            "publicación":1618,
+            "libro":"Parte XI de las comedias de Lope de Vega Carpio",
+            "género":"Comedia",
+            "subgénero":"Palatino"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.89502,
+               35.15585
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6697802"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/c4726875-c560-45e2-8d09-9c61cd955d2f",
+         "type":"Feature",
+         "properties":{
+            "title":"Illescas",
+            "obra":"El caballero de Illescas",
+            "menciones":30,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.84704,
+               40.12213
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6361741"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/118fc10c-81b6-4728-ab18-06f41d9a9d98",
+         "type":"Feature",
+         "properties":{
+            "title":"Toledo",
+            "obra":"El caballero de Illescas",
+            "menciones":8,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.02263,
+               39.8581
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3372516"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/2718cd19-b76b-4c75-8460-3433acd3f425",
+         "type":"Feature",
+         "properties":{
+            "title":"Turquía",
+            "obra":"El caballero de Illescas",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               35,
+               39
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/298795"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/b2a3b10f-0d35-45e9-9d4e-10b146320c45",
+         "type":"Feature",
+         "properties":{
+            "title":"Zamora",
+            "obra":"El caballero de Illescas",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.74456,
+               41.50633
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104342"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/30a1421c-0c61-483b-9d8d-4b190f2472a5",
+         "type":"Feature",
+         "properties":{
+            "title":"Aragón",
+            "obra":"El caballero de Illescas",
+            "menciones":6,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.66667,
+               41.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3336899"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/e501e207-fbe1-4eee-a98c-b9a263d43421",
+         "type":"Feature",
+         "properties":{
+            "title":"Portugal",
+            "obra":"El caballero de Illescas",
+            "menciones":4,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -8.13057,
+               39.6945
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2264397"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/cad3ff4a-bdbe-4654-a7b6-78d6d4e30dd4",
+         "type":"Feature",
+         "properties":{
+            "title":"Madrid",
+            "obra":"El caballero de Illescas",
+            "menciones":7,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.70256,
+               40.4165
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117735"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/215df9dd-6ec4-4416-b4b4-12a8236f179f",
+         "type":"Feature",
+         "properties":{
+            "title":"Castilla",
+            "obra":"El caballero de Illescas",
+            "menciones":11,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.25,
+               41.66667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104199"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/7157d507-fade-48eb-ba76-1e76f7a0bb61",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"El caballero de Illescas",
+            "menciones":25,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/50298447-d9e9-47de-a6d8-81a809081100",
+         "type":"Feature",
+         "properties":{
+            "title":"Nápoles",
+            "obra":"El caballero de Illescas",
+            "menciones":13,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.24641,
+               40.85631
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117766"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/d9685ab1-2389-4d88-93ae-e5c2021af330",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "obra":"El caballero de Illescas",
+            "menciones":10,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3175395"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/77093cfb-5873-4aa8-96fb-4d730eb4253b",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "obra":"El caballero de Illescas",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550595"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/5ff993e1-5d93-4b95-ae4d-a9a9ddb7f12f",
+         "type":"Feature",
+         "properties":{
+            "title":"Indias",
+            "obra":"El caballero de Illescas",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -102.552784,
+               23.634501
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117789"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/090cc7e1-4ea2-4c0f-b25b-d55ebfe53f2d",
+         "type":"Feature",
+         "properties":{
+            "title":"Grecia",
+            "obra":"El caballero de Illescas",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.824312,
+               39.074208
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/390903"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/cd1430d0-c1c9-4290-9b86-062da0d0c128",
+         "type":"Feature",
+         "properties":{
+            "title":"León",
+            "obra":"El caballero de Illescas",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.56716,
+               42.57357
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6362996"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/58e2bbee-cf57-4978-ae43-b3ee0687a0f8",
+         "type":"Feature",
+         "properties":{
+            "title":"Granada",
+            "obra":"El caballero de Illescas",
+            "menciones":1,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.59078,
+               37.18863
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/6357709"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/comedia/906b84d5-9aed-41e9-8034-dfa05934be1e",
+         "type":"Feature",
+         "properties":{
+            "title":"Barcelona",
+            "obra":"El caballero de Illescas",
+            "menciones":2,
+            "publicación":1620,
+            "libro":"Parte XIV de las comedias de Lope de Vega ",
+            "género":"Comedia",
+            "subgénero":"Picaresca"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               2.15899,
+               41.38879
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3128760"
+            }
+         ]
+      }
+   ],
+   "indexing":{
+      "@type":"Dataset",
+      "name":"Comedia",
+      "description":"",
+      "license":"https://creativecommons.org/licenses/by/4.0/",
+      "identifier":"https://w3id.org/comedia",
+      "temporalCoverage":"1066/2022",
+      "spatialCoverage":{
+         "@type":"GeoShape",
+         "box":"0.580101 0.00149 60.355 9.78667",
+         "geo":{
+            "@type":"GeoShape",
+            "box":"7.1881 0.10574 56 102.552784"
+         }
+      }
+   }
+}

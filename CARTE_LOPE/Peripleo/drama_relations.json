@@ -1,0 +1,2459 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+        {
+            "@id": "462314",
+            "uuid": "https://pleiades.stoa.org/places/462314",
+            "type": "Feature",
+            "properties": {
+                "title": "Mesopotamia",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Mesopotamia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "678106",
+            "uuid": "https://pleiades.stoa.org/places/678106",
+            "type": "Feature",
+            "properties": {
+                "title": "Damasco",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.309102,
+                    33.511612
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Damasco",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "922695",
+            "uuid": "https://pleiades.stoa.org/places/922695",
+            "type": "Feature",
+            "properties": {
+                "title": "Persia",
+                "occurrences": [
+                    {"value": 3}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.889437,
+                    29.9353403333
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Persia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "2995469",
+            "uuid": "https://www.geonames.org/2995469",
+            "type": "Feature",
+            "properties": {
+                "title": "Marsella",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38107,
+                    43.29695
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Marsella",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "502866838",
+            "uuid": "https://pleiades.stoa.org/places/502866838",
+            "type": "Feature",
+            "properties": {
+                "title": "Roma",
+                "occurrences": [
+                    {"value": 71}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4847567763,
+                    41.8925745251
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Roma",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "550595",
+            "uuid": "https://pleiades.stoa.org/places/550595",
+            "type": "Feature",
+            "properties": {
+                "title": "Troya",
+                "occurrences": [
+                    {"value": 3}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.23666572,
+                    39.954496182
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Troya",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Laura perseguida",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1614"
+                }
+            ]
+        },
+        {
+            "@id": "530871",
+            "uuid": "https://pleiades.stoa.org/places/530871",
+            "type": "Feature",
+            "properties": {
+                "title": "Epiro",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7877021411,
+                    39.5464840166
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Epiro",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "570406",
+            "uuid": "https://pleiades.stoa.org/places/570406",
+            "type": "Feature",
+            "properties": {
+                "title": "Lacedemonia",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4601869,
+                    37.075742175
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Lacedemonia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "6255147",
+            "uuid": "https://www.geonames.org/6255147",
+            "type": "Feature",
+            "properties": {
+                "title": "Asia",
+                "occurrences": [
+                    {"value": 3}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.29688,
+                    29.84064
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Asia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "2510769",
+            "uuid": "https://www.geonames.org/2510769",
+            "type": "Feature",
+            "properties": {
+                "title": "España",
+                "occurrences": [
+                    {"value": 7}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.74922,
+                    40.463667
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "España",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Laura perseguida",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1614"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "390903",
+            "uuid": "https://www.geonames.org/390903",
+            "type": "Feature",
+            "properties": {
+                "title": "Grecia",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.824312,
+                    39.074208
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Grecia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "3117789",
+            "uuid": "https://www.geonames.org/3117789",
+            "type": "Feature",
+            "properties": {
+                "title": "Indias",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.552784,
+                    23.634501
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Indias",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "2215636",
+            "uuid": "https://www.geonames.org/2215636",
+            "type": "Feature",
+            "properties": {
+                "title": "Libia",
+                "occurrences": [
+                    {"value": 2}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.228331,
+                    26.3351
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Libia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "579885",
+            "uuid": "https://pleiades.stoa.org/places/579885",
+            "type": "Feature",
+            "properties": {
+                "title": "Atenas",
+                "occurrences": [
+                    {"value": 4}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.726587521,
+                    37.9727951076
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Atenas",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Laura perseguida",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1614"
+                }
+            ]
+        },
+        {
+            "@id": "163843",
+            "uuid": "https://www.geonames.org/163843",
+            "type": "Feature",
+            "properties": {
+                "title": "Siria",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.996815,
+                    34.802075
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Siria",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                }
+            ]
+        },
+        {
+            "@id": "3175395",
+            "uuid": "https://www.geonames.org/3175395",
+            "type": "Feature",
+            "properties": {
+                "title": "Italia",
+                "occurrences": [
+                    {"value": 3}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83333,
+                    42.83333
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Italia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Lo fingido verdadero",
+                    "subgenre": "Hagiográfico-legendario",
+                    "genre": "Drama",
+                    "date": "1620"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "719819",
+            "uuid": "https://www.geonames.org/719819",
+            "type": "Feature",
+            "properties": {
+                "title": "Hungría",
+                "occurrences": [
+                    {"value": 2}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Hungría",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Laura perseguida",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1614"
+                }
+            ]
+        },
+        {
+            "@id": "337996",
+            "uuid": "https://www.geonames.org/337996",
+            "type": "Feature",
+            "properties": {
+                "title": "Etiopía",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5,
+                    9.0
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Etiopía",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Laura perseguida",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1614"
+                }
+            ]
+        },
+        {
+            "@id": "29475",
+            "uuid": "https://pleiades.stoa.org/places/29475",
+            "type": "Feature",
+            "properties": {
+                "title": "Arabia",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.7590517643,
+                    14.9082523955
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Arabia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Laura perseguida",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1614"
+                }
+            ]
+        },
+        {
+            "@id": "3109642",
+            "uuid": "https://www.geonames.org/3109642",
+            "type": "Feature",
+            "properties": {
+                "title": "Santiago de Compostela",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.54569,
+                    42.88052
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Santiago de Compostela",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Laura perseguida",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1614"
+                }
+            ]
+        },
+        {
+            "@id": "2887835",
+            "uuid": "https://www.geonames.org/2887835",
+            "type": "Feature",
+            "properties": {
+                "title": "Cleves",
+                "occurrences": [
+                    {"value": 16}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13865,
+                    51.78826
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Cleves",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La hermosa Alfreda",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1618"
+                }
+            ]
+        },
+        {
+            "@id": "197240",
+            "uuid": "https://pleiades.stoa.org/places/197240",
+            "type": "Feature",
+            "properties": {
+                "title": "Dalmacia",
+                "occurrences": [
+                    {"value": 3}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.483426,
+                    43.539561
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Dalmacia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La hermosa Alfreda",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1618"
+                }
+            ]
+        },
+        {
+            "@id": "2638360",
+            "uuid": "https://www.geonames.org/2638360",
+            "type": "Feature",
+            "properties": {
+                "title": "Escocia",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0,
+                    56.0
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Escocia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La hermosa Alfreda",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1618"
+                }
+            ]
+        },
+        {
+            "@id": "146669",
+            "uuid": "https://www.geonames.org/146669",
+            "type": "Feature",
+            "properties": {
+                "title": "Chipre",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0,
+                    35.0
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Chipre",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La hermosa Alfreda",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1618"
+                }
+            ]
+        },
+        {
+            "@id": "2542007",
+            "uuid": "https://www.geonames.org/2542007",
+            "type": "Feature",
+            "properties": {
+                "title": "Marruecos",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0,
+                    28.5
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Marruecos",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "La hermosa Alfreda",
+                    "subgenre": "Palatino",
+                    "genre": "Drama",
+                    "date": "1618"
+                }
+            ]
+        },
+        {
+            "@id": "3336899",
+            "uuid": "http://www.geonames.org/3336899",
+            "type": "Feature",
+            "properties": {
+                "title": "Aragón",
+                "occurrences": [
+                    {"value": 32}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.66667,
+                    41.5
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Aragón",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "3104199",
+            "uuid": "https://www.geonames.org/3104199",
+            "type": "Feature",
+            "properties": {
+                "title": "Castilla",
+                "occurrences": [
+                    {"value": 33}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.25,
+                    41.66667
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Castilla",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "3108126",
+            "uuid": "https://www.geonames.org/3108126",
+            "type": "Feature",
+            "properties": {
+                "title": "Teruel",
+                "occurrences": [
+                    {"value": 6}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.10646,
+                    40.3456
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Teruel",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "3104324",
+            "uuid": "https://www.geonames.org/3104324",
+            "type": "Feature",
+            "properties": {
+                "title": "Zaragoza",
+                "occurrences": [
+                    {"value": 6}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.87734,
+                    41.65606
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Zaragoza",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "3115609",
+            "uuid": "https://www.geonames.org/3115609",
+            "type": "Feature",
+            "properties": {
+                "title": "Navarra",
+                "occurrences": [
+                    {"value": 4}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.66667,
+                    42.75
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Navarra",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "2509954",
+            "uuid": "http://www.geonames.org/2509954",
+            "type": "Feature",
+            "properties": {
+                "title": "Valencia",
+                "occurrences": [
+                    {"value": 3}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37739,
+                    39.46975
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Valencia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "3117766",
+            "uuid": "https://www.geonames.org/3117766",
+            "type": "Feature",
+            "properties": {
+                "title": "Nápoles",
+                "occurrences": [
+                    {"value": 2}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24641,
+                    40.85631
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Nápoles",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "2510911",
+            "uuid": "http://www.geonames.org/2510911",
+            "type": "Feature",
+            "properties": {
+                "title": "Sevilla",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.97317,
+                    37.38283
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Sevilla",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "2411585",
+            "uuid": "http://www.geonames.org/2411585",
+            "type": "Feature",
+            "properties": {
+                "title": "Gibraltar",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.35257,
+                    36.14474
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Gibraltar",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "6255146",
+            "uuid": "https://www.geonames.org/6255146",
+            "type": "Feature",
+            "properties": {
+                "title": "África",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.09375,
+                    7.1881
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "África",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "2514239",
+            "uuid": "http://www.geonames.org/2514239",
+            "type": "Feature",
+            "properties": {
+                "title": "Mallorca",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.01197,
+                    39.6078
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Mallorca",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "2264397",
+            "uuid": "https://www.geonames.org/2264397",
+            "type": "Feature",
+            "properties": {
+                "title": "Portugal",
+                "occurrences": [
+                    {"value": 6}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.13057,
+                    39.6945
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Portugal",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "3117735",
+            "uuid": "https://www.geonames.org/3117735",
+            "type": "Feature",
+            "properties": {
+                "title": "Madrid",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70256,
+                    40.4165
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Madrid",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "3017382",
+            "uuid": "https://www.geonames.org/3017382",
+            "type": "Feature",
+            "properties": {
+                "title": "Francia",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Francia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "3372516",
+            "uuid": "https://www.geonames.org/3372516",
+            "type": "Feature",
+            "properties": {
+                "title": "Toledo",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.02263,
+                    39.8581
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Toledo",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "3128760",
+            "uuid": "https://www.geonames.org/3128760",
+            "type": "Feature",
+            "properties": {
+                "title": "Barcelona",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.15899,
+                    41.38879
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Barcelona",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "3120211",
+            "uuid": "http://www.geonames.org/3120211",
+            "type": "Feature",
+            "properties": {
+                "title": "Jaca",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54987,
+                    42.56898
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Jaca",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "687928",
+            "uuid": "https://pleiades.stoa.org/places/687928",
+            "type": "Feature",
+            "properties": {
+                "title": "Jerusalén",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.234156,
+                    31.776679
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Jerusalén",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": " Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+                    "subgenre": "Histórico",
+                    "genre": "Drama",
+                    "date": "1612"
+                }
+            ]
+        },
+        {
+            "@id": "2521928",
+            "uuid": "https://www.geonames.org/2521928",
+            "type": "Feature",
+            "properties": {
+                "title": "Almagro",
+                "occurrences": [
+                    {"value": 2}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.71131,
+                    38.88941
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Almagro",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "2519401",
+            "uuid": "https://www.geonames.org/2519401",
+            "type": "Feature",
+            "properties": {
+                "title": "Ciudad Real",
+                "occurrences": [
+                    {"value": 10}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0,
+                    39.0
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Ciudad Real",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "3117825",
+            "uuid": "https://www.geonames.org/3117825",
+            "type": "Feature",
+            "properties": {
+                "title": "Andalucía",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5,
+                    37.6
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Andalucía",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "6357224",
+            "uuid": "https://www.geonames.org/6357224",
+            "type": "Feature",
+            "properties": {
+                "title": "Fuente Obejuna",
+                "occurrences": [
+                    {"value": 36}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.45186,
+                    38.26232
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Fuente Obejuna",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "6357709",
+            "uuid": "http://www.geonames.org/6357709",
+            "type": "Feature",
+            "properties": {
+                "title": "Granada",
+                "occurrences": [
+                    {"value": 3}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.59078,
+                    37.18863
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Granada",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "2593112",
+            "uuid": "http://www.geonames.org/2593112",
+            "type": "Feature",
+            "properties": {
+                "title": "Extremadura",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.16667,
+                    39.16667
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Extremadura",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "2519240",
+            "uuid": "https://www.geonames.org/2519240",
+            "type": "Feature",
+            "properties": {
+                "title": "Córdoba",
+                "occurrences": [
+                    {"value": 3}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.77275,
+                    37.89155
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Córdoba",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "664661",
+            "uuid": "http://www.geonames.org/664661",
+            "type": "Feature",
+            "properties": {
+                "title": "Transilvania",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0,
+                    46.5
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Transilvania",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "2921044",
+            "uuid": "https://www.geonames.org/2921044",
+            "type": "Feature",
+            "properties": {
+                "title": "Alemania",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5,
+                    51.5
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Alemania",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "3016565",
+            "uuid": "https://www.geonames.org/3016565",
+            "type": "Feature",
+            "properties": {
+                "title": "Gascuña",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    43.5
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Gascuña",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        },
+        {
+            "@id": "550587",
+            "uuid": "https://pleiades.stoa.org/places/550587",
+            "type": "Feature",
+            "properties": {
+                "title": "Hircania",
+                "occurrences": [
+                    {"value": 1}
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5626572101,
+                    38.7184715253
+                ]
+            },
+            "descriptions": "",
+            "names": [
+                {
+                    "toponym": "Hircania",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "title": "Fuente Ovejuna",
+                    "subgenre": "Villano",
+                    "genre": "Drama",
+                    "date": "1619"
+                }
+            ]
+        }
+    ]
+}
